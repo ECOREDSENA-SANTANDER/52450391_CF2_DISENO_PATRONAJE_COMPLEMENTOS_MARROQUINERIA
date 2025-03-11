@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    Name: 'Marroquinería, el arte de crear en cuero',
+    Description:
+      'El diseño y patronaje en marroquinería es un proceso creativo y técnico que permite la transformación del cuero y otros materiales en complementos funcionales y estéticos como bolsos, billeteras y cinturones. Inicia con la conceptualización del diseño, seguido del trazado y creación de moldes con medidas precisas. Se utilizan materiales como cuero curtido, sintéticos y textiles, junto con insumos como herrajes y adhesivos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
       },
     ],
   },
@@ -31,12 +36,13 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Apropiación de conceptos básicos de marroquinería',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo:
+              ' Materiales e insumos utilizados en marroquinería, clases y características',
             hash: 't_1_1',
           },
         ],
@@ -45,13 +51,26 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo:
+          'Materiales para la elaboración de moldes, tipos, características',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Inspiración para el diseño',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Desarrollo y evaluación del producto o prototipo',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Trazado de modelos para diseños en marroquinería',
         desarrolloContenidos: true,
       },
     ],
@@ -86,7 +105,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/prueba.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -102,21 +121,113 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Inspiración para el diseño',
+      referencia:
+        'Emely Rivera. (2020, 25 mayo). Sistema isométrico [Vídeo]. YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=gK4CC6D9I4c',
+    },
+    {
+      tema: 'Apropiación de conceptos básicos de marroquinería.',
+      referencia:
+        'PALE INGENIERIA DEL CUERO. (2020, 3 abril). Dibujo isométrico Bolso pinza 90° [Vídeo]. YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=uAz2wPNICBI',
+    },
+    {
+      tema: 'Desarrollo y evaluación del producto o prototipo',
+      referencia:
+        'Emely Rivera. (2021, 2 junio). Sesión 4 El bolso y sus partes -formas de bolsos tipo pinza. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=6gcoD2MWe3Y',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Cremallera',
+      significado:
+        'mecanismo de cierre compuesto por dos filas de dientes que se enganchan mediante un deslizador, usado en productos de marroquinería.',
+    },
+    {
+      termino: 'Curtido',
+      significado:
+        ' proceso químico o vegetal que estabiliza la piel animal para su uso en la fabricación de productos de cuero.',
+    },
+    {
+      termino: 'Diseño',
+      significado:
+        'herramienta estratégica que permite la creación y desarrollo de productos funcionales y estéticos en la marroquinería.',
+    },
+    {
+      termino: 'Encaje',
+      significado:
+        'técnica utilizada en el trazado de modelos para definir la estructura y proporciones de un producto.',
+    },
+    {
+      termino: 'Forro',
+      significado:
+        'material interno empleado en productos de marroquinería para mejorar la resistencia, durabilidad y estética.',
+    },
+    {
+      termino: 'Guata',
+      significado:
+        'material acolchado usado en marroquinería para proporcionar volumen, suavidad y aislamiento térmico.',
+    },
+    {
+      termino: 'Herrajes',
+      significado:
+        'accesorios metálicos como hebillas, remaches y mosquetones utilizados para dar funcionalidad y estética a los productos.',
+    },
+    {
+      termino: 'Insumo',
+      significado:
+        'material o componente procesado que interviene en la fabricación de productos, como hilos, adhesivos y forros.',
+    },
+    {
+      termino: 'Marroquinería',
+      significado:
+        'arte y técnica de transformar el cuero en productos funcionales y estéticos como bolsos, billeteras y correas.',
+    },
+    {
+      termino: '<i>Mood board</i>',
+      significado:
+        ' Herramienta visual que organiza imágenes, colores y texturas para representar conceptualmente una colección de diseño.',
+    },
+    {
+      termino: 'Pigmento',
+      significado:
+        ' Sustancia que aporta color a los materiales sin penetrar en su superficie, disponible en diferentes acabados.',
+    },
+    {
+      termino: 'Reata',
+      significado:
+        'Tejido resistente utilizado en la confección de correas, cinturones y asas para bolsos y maletines.',
+    },
+    {
+      termino: 'Salpa',
+      significado:
+        ' Material elaborado con fibras de cuero recuperado, utilizado para reforzar y dar estructura a productos de marroquinería.',
+    },
+    {
+      termino: 'Tafeta',
+      significado:
+        'Tejido sintético o de acetato utilizado en forros internos de marroquinería por su suavidad y resistencia.',
+    },
+    {
+      termino: 'Tendencia',
+      significado:
+        ' Influencia derivada de cambios en la moda, el arte o el estilo de vida, que guía el desarrollo de nuevas colecciones.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'José María Ibáñez Gimeno. (2000). Gestión de diseño en la empresa, Editorial McGraw Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cámara de Comercio de Bogotá y Cundinamarca. (2006). Balance tecnológico cadena productiva marroquinera en Bogotá.',
       link: '',
     },
   ],
@@ -125,14 +236,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -140,9 +251,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nohora Amparo Nieto Cárdenas',
+          cargo: 'NO TIENE CARGO EN EL DI',
+          centro:
+            'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -150,19 +267,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Leonardo Castellanos Rodríguez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productor multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -170,14 +287,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yineth González Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'PENDIENTE ASIGNACIÓN',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
