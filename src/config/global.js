@@ -125,113 +125,92 @@ export default {
   },
   complementario: [
     {
-      tema: 'Inspiración para el diseño',
-      referencia:
-        'Emely Rivera. (2020, 25 mayo). Sistema isométrico [Vídeo]. YouTube',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=gK4CC6D9I4c',
-    },
-    {
-      tema: 'Apropiación de conceptos básicos de marroquinería.',
-      referencia:
-        'PALE INGENIERIA DEL CUERO. (2020, 3 abril). Dibujo isométrico Bolso pinza 90° [Vídeo]. YouTube',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=uAz2wPNICBI',
-    },
-    {
-      tema: 'Desarrollo y evaluación del producto o prototipo',
-      referencia:
-        'Emely Rivera. (2021, 2 junio). Sesión 4 El bolso y sus partes -formas de bolsos tipo pinza. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=6gcoD2MWe3Y',
+      tema: 'Herramientas y maquinaria para marroquinería ',
+      referencia: 'NO HAY INFO EN EL DI',
+      tipo: 'Cartillas',
+      link: '',
     },
   ],
   glosario: [
-    {
-      termino: 'Cremallera',
-      significado:
-        'mecanismo de cierre compuesto por dos filas de dientes que se enganchan mediante un deslizador, usado en productos de marroquinería.',
-    },
-    {
-      termino: 'Curtido',
-      significado:
-        ' proceso químico o vegetal que estabiliza la piel animal para su uso en la fabricación de productos de cuero.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'herramienta estratégica que permite la creación y desarrollo de productos funcionales y estéticos en la marroquinería.',
-    },
-    {
-      termino: 'Encaje',
-      significado:
-        'técnica utilizada en el trazado de modelos para definir la estructura y proporciones de un producto.',
-    },
-    {
-      termino: 'Forro',
-      significado:
-        'material interno empleado en productos de marroquinería para mejorar la resistencia, durabilidad y estética.',
-    },
-    {
-      termino: 'Guata',
-      significado:
-        'material acolchado usado en marroquinería para proporcionar volumen, suavidad y aislamiento térmico.',
-    },
-    {
-      termino: 'Herrajes',
-      significado:
-        'accesorios metálicos como hebillas, remaches y mosquetones utilizados para dar funcionalidad y estética a los productos.',
-    },
-    {
-      termino: 'Insumo',
-      significado:
-        'material o componente procesado que interviene en la fabricación de productos, como hilos, adhesivos y forros.',
-    },
     {
       termino: 'Marroquinería',
       significado:
         'arte y técnica de transformar el cuero en productos funcionales y estéticos como bolsos, billeteras y correas.',
     },
     {
+      termino: 'Patronaje',
+      significado:
+        'proceso de diseño y creación de patrones que sirven como guía para cortar y ensamblar las piezas en la marroquinería.',
+    },
+    {
+      termino: 'Curtido',
+      significado:
+        'Tratamiento químico y mecánico aplicado al cuero para hacerlo resistente y duradero.',
+    },
+    {
       termino: '<i>Mood board</i>',
       significado:
-        ' Herramienta visual que organiza imágenes, colores y texturas para representar conceptualmente una colección de diseño.',
+        'tablero visual compuesto por imágenes, colores y texturas que sirven como inspiración para el diseño.',
     },
     {
-      termino: 'Pigmento',
+      termino: 'Tendencias',
       significado:
-        ' Sustancia que aporta color a los materiales sin penetrar en su superficie, disponible en diferentes acabados.',
+        'Cambios y estilos predominantes en la industria de la moda y la marroquinería que influyen en los diseños.',
     },
     {
-      termino: 'Reata',
+      termino: 'Moldería',
       significado:
-        'Tejido resistente utilizado en la confección de correas, cinturones y asas para bolsos y maletines.',
+        'Desarrollo de moldes precisos para garantizar la fidelidad al diseño en la fabricación de artículos en cuero.',
     },
     {
-      termino: 'Salpa',
+      termino: 'Lezna',
       significado:
-        ' Material elaborado con fibras de cuero recuperado, utilizado para reforzar y dar estructura a productos de marroquinería.',
+        'Herramienta con punta metálica afilada utilizada para perforar cuero y facilitar la costura.',
     },
     {
-      termino: 'Tafeta',
+      termino: 'Estaquillo',
       significado:
-        'Tejido sintético o de acetato utilizado en forros internos de marroquinería por su suavidad y resistencia.',
+        'Instrumento que marca puntos de referencia en el cuero y asienta el pegado de piezas curvas.',
     },
     {
-      termino: 'Tendencia',
+      termino: 'Sacabocados',
       significado:
-        ' Influencia derivada de cambios en la moda, el arte o el estilo de vida, que guía el desarrollo de nuevas colecciones.',
+        'Herramienta empleada para perforar cuero y otros materiales en diferentes formas y tamaños.',
+    },
+    {
+      termino: 'Desbastado',
+      significado:
+        'técnica de reducción del grosor del cuero en los bordes para facilitar el ensamblaje y mejorar el acabado.',
+    },
+    {
+      termino: 'Entintado',
+      significado:
+        'Proceso de aplicación de tinta en los bordes del cuero para mejorar su apariencia y durabilidad.',
+    },
+    {
+      termino: 'Troqueladora',
+      significado:
+        'Máquina utilizada para realizar cortes precisos en cuero mediante moldes con formas prediseñadas.',
+    },
+    {
+      termino: 'Fileteadora',
+      significado:
+        'Máquina especializada en la terminación y acabado de los bordes de artículos de cuero y textiles.',
+    },
+    {
+      termino: 'Chapeta',
+      significado:
+        'Pieza de cuero que sostiene la hebilla en la fabricación de cinturones y otros accesorios.',
+    },
+    {
+      termino: 'Fuelle',
+      significado:
+        'Parte lateral de un bolso que determina su volumen y capacidad, pudiendo ser rígido o flexible.',
     },
   ],
   referencias: [
     {
-      referencia:
-        'José María Ibáñez Gimeno. (2000). Gestión de diseño en la empresa, Editorial McGraw Hill.',
-      link: '',
-    },
-    {
-      referencia:
-        'Cámara de Comercio de Bogotá y Cundinamarca. (2006). Balance tecnológico cadena productiva marroquinera en Bogotá.',
+      referencia: 'Vallejos, L. (2017). Manual básico para marroquinería.',
       link: '',
     },
   ],
@@ -255,10 +234,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nohora Amparo Nieto Cárdenas',
-          cargo: 'NO TIENE CARGO EN EL DI',
-          centro:
-            'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital ',
+          nombre: 'Elizabeth Mena Rengifo',
+          cargo: 'E-Pedagoga instruccional',
+          centro: 'Centro Atención Sector Agropecuario - Regional Risaralda ',
+        },
+        {
+          nombre: 'Mónica Cecilia Alzate',
+          cargo: 'Instructor Diseño curricular',
+          centro: 'Centro Textil y de Gestión Industrial - Regional Antioquia',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
@@ -271,7 +254,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Edison Eduardo Mantilla Cuadros',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
