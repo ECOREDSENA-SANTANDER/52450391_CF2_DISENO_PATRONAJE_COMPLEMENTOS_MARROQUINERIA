@@ -15,6 +15,7 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-5.bg4.p-3.mb-3
+        br
         p.px-2 Las fichas técnicas del producto, presentadas durante el proceso de formación, contienen detalles específicos sobre los requerimientos del proceso productivo, proporcionando una guía clara y estructurada para el personal de producción en cada etapa del desarrollo. En ellas se incluyen aspectos clave como los materiales necesarios, las especificaciones técnicas y los procedimientos de fabricación. Esta información permite asegurar la coherencia, precisión y eficiencia en la producción.
       .col-lg-3.col-8.mb-3
         img(src='@/assets/curso/temas/Tema5/img02.png', alt='')
