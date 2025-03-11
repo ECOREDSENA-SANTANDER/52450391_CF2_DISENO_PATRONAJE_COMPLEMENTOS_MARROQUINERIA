@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Trazado de modelos para diseños en marroquinería
+      h1 Manejo de la información a lo largo de la cadena de mando
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="down")
       .col-lg-5
