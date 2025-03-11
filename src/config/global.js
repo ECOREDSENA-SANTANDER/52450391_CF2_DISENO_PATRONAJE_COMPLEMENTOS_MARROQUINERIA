@@ -36,13 +36,12 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Apropiación de conceptos básicos de marroquinería',
+        titulo: 'Herramientas y maquinaria para marroquinería',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo:
-              ' Materiales e insumos utilizados en marroquinería, clases y características',
+            titulo: 'Maquinaria y equipos',
             hash: 't_1_1',
           },
         ],
@@ -51,26 +50,31 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo:
-          'Materiales para la elaboración de moldes, tipos, características',
+        titulo: 'Moldería para bolsos, billeteras y cinturones',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Inspiración para el diseño',
+        titulo: 'Moldería en común para bolsos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Desarrollo y evaluación del producto o prototipo',
+        titulo: 'Moldería para cinturones',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Trazado de modelos para diseños en marroquinería',
+        titulo: 'Manejo de la información a lo largo de la cadena de mando',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Corte, preparación y confección de artículos de cuero',
         desarrolloContenidos: true,
       },
     ],
