@@ -20,25 +20,25 @@ export default {
       tema: 'Descubriendo el mundo de la marroquinería',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre marroquinería, incluyendo materiales, procesos y herramientas utilizadas en el diseño y fabricación de productos.',
+        '<b> Objetivo:</b> evaluar el conocimiento sobre los conceptos fundamentales de la marroquinería, incluyendo herramientas, maquinaria, procesos y materiales.',
       barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
           texto:
-            'El curtido vegetal es un proceso industrial que utiliza sales de cromo para estabilizar la piel.',
+            'La marroquinería combina tradición artesanal con innovación tecnológica en la creación de complementos de cuero.',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -47,19 +47,19 @@ export default {
         {
           id: 2,
           texto:
-            'El <i>mood board</i> es una herramienta visual utilizada en el proceso de diseño para organizar y representar de manera creativa la investigación conceptual de una colección.',
+            'El curvígrafo se utiliza para realizar cortes en el cuero con precisión.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -68,7 +68,7 @@ export default {
         {
           id: 3,
           texto:
-            'La marroquinería se limita exclusivamente a la fabricación de bolsos y billeteras en cuero.',
+            'La máquina ribeteadora es utilizada para realizar cortes en diferentes piezas de cuero.',
           imagen: require('@/assets/actividad/3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -89,7 +89,7 @@ export default {
         {
           id: 4,
           texto:
-            'El PU (Poliuretano) y el PVC (Policloruro de vinilo) son materiales sintéticos utilizados en marroquinería como alternativas al cuero.',
+            'El sacabocados se emplea para perforar el cuero en diferentes formas.',
           imagen: require('@/assets/actividad/4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -110,19 +110,19 @@ export default {
         {
           id: 5,
           texto:
-            'Las tendencias en el diseño de marroquinería no tienen relación con factores culturales o cambios en el estilo de vida de los consumidores.',
+            'La industrialización de los moldes permite optimizar el proceso de producción mediante el marcado y la numeración de piezas.',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -130,8 +130,7 @@ export default {
         },
         {
           id: 6,
-          texto:
-            'Tafeta de acetato es un material utilizado en forros para marroquinería, ya que no destiñe, no se arruga ni se encoge.',
+          texto: 'El cuero tiene dos capas principales: la flor y la carnaza.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -152,19 +151,19 @@ export default {
         {
           id: 7,
           texto:
-            'El diseño de productos en marroquinería no requiere un proceso estructurado de análisis, planificación y ejecución.',
+            'La máquina de poste es ideal para la confección de piezas pequeñas y apliques en marroquinería.',
           imagen: require('@/assets/actividad/3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -173,19 +172,19 @@ export default {
         {
           id: 8,
           texto:
-            'La salpa y la odena son materiales utilizados para reforzar y dar estructura a los productos de marroquinería.',
+            'El matacantos se utiliza para perforar el cuero antes de la costura.',
           imagen: require('@/assets/actividad/4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -194,19 +193,19 @@ export default {
         {
           id: 9,
           texto:
-            'El EVA (Etileno Vinil Acetato) es un material utilizado en marroquinería para proporcionar rigidez y flexibilidad a las carteras.',
+            'El entintado de bordes es un proceso opcional en la marroquinería y no afecta la calidad del producto final.',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -215,7 +214,7 @@ export default {
         {
           id: 10,
           texto:
-            'El desarrollo de moldes en marroquinería se realiza únicamente de manera digital, sin la necesidad de procesos manuales.',
+            'En la fabricación de bolsos, el forro siempre debe ser adherido al cuerpo del bolso.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
           opciones: [
