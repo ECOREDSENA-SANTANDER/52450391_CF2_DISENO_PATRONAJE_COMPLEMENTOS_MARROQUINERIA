@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="631" height="170" viewBox="0 0 631 170">
+  <g id="Grupo_1106537" data-name="Grupo 1106537" transform="translate(-495 -1410.163)">
+    <text id="_70_cm" data-name="70 cm" transform="translate(800 1420.163)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="-11.082" y="0">70 cm</tspan></text>
+    <text id="_7_cm" data-name="7 cm" transform="translate(1122 1462.669) rotate(-90)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="-8.836" y="0">7 cm</tspan></text>
+    <rect id="Rectángulo_402041" data-name="Rectángulo 402041" width="609.872" height="66" transform="translate(495.128 1431.163)" fill="#ebe6e6"/>
+    <rect id="Rectángulo_402070" data-name="Rectángulo 402070" width="609.872" height="66" transform="translate(495.128 1514.163)" fill="#ebe6e6"/>
+    <line id="Línea_563" data-name="Línea 563" x2="609.956" transform="translate(495 1425.163)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_568" data-name="Línea 568" y1="65.837" transform="translate(1111.5 1431.663)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_564" data-name="Línea 564" y2="21" transform="translate(495.5 1410.163)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_567" data-name="Línea 567" y2="21" transform="translate(1105 1497.163) rotate(-90)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_565" data-name="Línea 565" y2="21" transform="translate(1105 1410.163)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_566" data-name="Línea 566" y2="21" transform="translate(1105 1431.163) rotate(-90)" fill="none" stroke="#655647" stroke-width="1"/>
+    <text id="Manija_de_mano_Cantidad:_Material:_Molde_No:_Referencia:" data-name="Manija de mano
+Cantidad:
+Material:
+Molde No:
+Referencia:" transform="translate(761.342 1530.163)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Manija de mano</tspan><tspan x="0" y="10">Cantidad:</tspan><tspan x="0" y="20">Material:</tspan><tspan x="0" y="30">Molde No:</tspan><tspan x="0" y="40">Referencia:</tspan></text>
+  </g>
+</svg>

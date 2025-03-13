@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="190" viewBox="0 0 401 190">
+  <g id="Grupo_1106583" data-name="Grupo 1106583" transform="translate(-599.456 -5887)">
+    <rect id="Rectángulo_402080" data-name="Rectángulo 402080" width="401" height="190" transform="translate(599.456 5887)" fill="#bbcbc5"/>
+    <line id="Línea_708" data-name="Línea 708" y2="168" transform="translate(800.468 5898.5)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_709" data-name="Línea 709" x2="401" transform="translate(599.456 5898)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <line id="Línea_710" data-name="Línea 710" x2="401" transform="translate(599.456 6066)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <text id="Costura" transform="translate(786.456 6075)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <text id="Costura-2" data-name="Costura" transform="translate(786.456 5896)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <circle id="Elipse_11535" data-name="Elipse 11535" cx="3" cy="3" r="3" transform="translate(986.456 5979)" fill="#567e6f"/>
+  </g>
+</svg>
