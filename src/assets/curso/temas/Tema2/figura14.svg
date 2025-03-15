@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="341.872" height="264.605" viewBox="0 0 341.872 264.605">
+  <g id="Grupo_1106442" data-name="Grupo 1106442" transform="translate(-637 -5165.192)">
+    <path id="Unión_15" data-name="Unión 15" d="M35.146,263.106V228.8H0V0H340.674V228.8H305.528v34.31Z" transform="translate(638.198 5166.543)" fill="#ebe6e6"/>
+    <g id="Unión_16" data-name="Unión 16" transform="translate(638.198 5166.691)" fill="none">
+      <path d="M35.146,263.106V228.8H0V0H340.674V228.8H305.528v34.31Z" stroke="none"/>
+      <path d="M 297.5277099609375 255.1058807373047 L 297.5277099609375 220.7957763671875 L 332.6741027832031 220.7957763671875 L 332.6741027832031 7.999982833862305 L 8.000016212463379 7.999982833862305 L 8.000016212463379 220.7957763671875 L 43.14641571044922 220.7957763671875 L 43.14641571044922 255.1058807373047 L 297.5277099609375 255.1058807373047 M 305.5277099609375 263.1058959960938 L 35.14641571044922 263.1058959960938 L 35.14641571044922 228.7957763671875 L 1.665039053477813e-05 228.7957763671875 L 1.665039053477813e-05 -1.726074151520152e-05 L 340.6741027832031 -1.726074151520152e-05 L 340.6741027832031 228.7957763671875 L 305.5277099609375 228.7957763671875 L 305.5277099609375 263.1058959960938 Z" stroke="none" fill="#b6a3a1"/>
+    </g>
+    <text id="Costura" transform="translate(646 5286.1) rotate(-90)" fill="#4b1c16" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="-15.649" y="0">Costura</tspan></text>
+    <text id="Costura-2" data-name="Costura" transform="translate(795.974 5425.644)" fill="#4b1c16" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="-15.649" y="0">Costura</tspan></text>
+    <text id="Costura-3" data-name="Costura" transform="translate(795.974 5174.192)" fill="#4b1c16" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="-15.649" y="0">Costura</tspan></text>
+    <text id="Cuerpo_frente_y_espaldar_._Cantidad:_Material:_Molde_No:_Referencia:" data-name="Cuerpo (frente y espaldar).
+Cantidad:
+Material:
+Molde No:
+Referencia:" transform="translate(709.776 5255.703)" fill="#4b1c16" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Cuerpo (frente y espaldar).</tspan><tspan x="0" y="10">Cantidad:</tspan><tspan x="0" y="20">Material:</tspan><tspan x="0" y="30">Molde No:</tspan><tspan x="0" y="40">Referencia:</tspan></text>
+    <text id="Costura-4" data-name="Costura" transform="translate(974.683 5286.1) rotate(-90)" fill="#4b1c16" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="-15.649" y="0">Costura</tspan></text>
+  </g>
+</svg>

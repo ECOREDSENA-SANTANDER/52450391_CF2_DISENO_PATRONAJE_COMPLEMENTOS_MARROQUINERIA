@@ -1,9 +1,13 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    width: 100px
+    height: 100px
+    border-radius: 10px /* Hace que el bolso tenga bordes redondeados */
     position: absolute
-    top: 1%
-    right: 80%
+    top:  1%
+    left: 2%
+    transform-origin: top center /* Esto hace que la animación sea desde el punto superior central */
+    animation: balancear 4s ease-in-out infinite
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
@@ -22,7 +26,13 @@
 
   100%
     transform: translateY(0px)
-  
+@keyframes balancear 
+  0% 
+    transform: rotate(-15deg) /* Inclina el bolso a la izquierda */
+  50% 
+    transform: rotate(15deg) /* Inclina el bolso a la derecha */
+  100% 
+    transform: rotate(-15deg)  
   
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -91,7 +101,20 @@ figcaption
     margin-inline: -2.4rem
     margin-right: -2rem
     margin-left: -2rem
-
+.fondofinal
+  background-image: url('../assets/curso/temas/Tema2/fondo1.png')
+  background-position: cover
+  background-size: 100% 92%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
 
 .fondo1
   background: url('../assets/curso/temas/fondo1.png')
@@ -194,6 +217,15 @@ figcaption
 .tarjeta.color
   background-color: #BBCBC5
   border-radius: 20px
+.tarjeta.color2
+  background: url('../assets/curso/temas/Tema2/fondo3.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  height: 160px
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    height: 230px
 .imgtamano
   width: 70%
   max-width: 70%
@@ -226,6 +258,32 @@ figcaption
     margin-inline: -3rem  
     background-size: cover 
   background-image: url('../assets/curso/temas/Tema3/fondo3.png')
+  border-radius: 20px
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+.fondot03
+  background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  background-image: url('../assets/curso/temas/Tema3/fondo3.png')
+  border-radius: 20px
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+.fondot003
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  background-image: url('../assets/curso/temas/Tema2/fondo.png')
   border-radius: 20px
   @media screen and (max-width: 767px)
     margin-inline: -2.4rem
@@ -399,11 +457,12 @@ figcaption
 .w-card-icon
   width: min-content
   z-index: 1
+
 .w-card-text
   position: relative
   padding-left: 50px
   padding-right: 50px
-  left: -30px
+  left: -8px
   top: 8px
 
 .slyder-f__btn
