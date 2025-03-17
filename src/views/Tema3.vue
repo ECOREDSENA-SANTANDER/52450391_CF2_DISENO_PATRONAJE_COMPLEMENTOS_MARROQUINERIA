@@ -13,7 +13,7 @@
       .col-lg-7
         p Teniendo en cuenta los moldes elaborados se procede a realizar los moldes que los complementan (estos se crean según el diseño del artículo y dimensiones de los herrajes para el caso de las chapetas y de manijas o cargaderas).
         .row.align-items-center.bg33.p-1
-          .col-lg-9
+          .col-lg-9.col-11
             p #[b Manijas o cargaderas:] son aquellas piezas que se unen al cuerpo o fuelle del bolso y que permiten coger el artículo con la mano o colgarlo al hombro. Se encuentran de diferentes medidas:
             ul.lista-ul
               li.mb-0
@@ -260,7 +260,7 @@
 
 
       .row.justify-content-center.mb-2(data-aos="flip-up")
-        .col-lg-12.col-12
+        .col-lg-12.col-12.col-md-12
           .tarjeta.fondolink2.p-4.mb-0
             .row.justify-content-around.align-items-center.py-4
               .col-3.col-sm-2.col-lg-1

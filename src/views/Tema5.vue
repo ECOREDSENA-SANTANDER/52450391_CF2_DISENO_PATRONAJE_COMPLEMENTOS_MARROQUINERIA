@@ -21,7 +21,7 @@
         img(src='@/assets/curso/temas/Tema5/img02.png', alt='')
       .col-lg-4
         .row
-          .col-2.mb-4.col-2
+          .col-2.mb-4.col-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema5/ico.svg', alt='')
           .col-12
             p.px-2 Para facilitar su consulta y aplicación, se dispone de un modelo referencial accesible en las tablas correspondientes, lo que permite a los usuarios validar la información y seguir de manera rigurosa las indicaciones establecidas. De esta manera, las fichas técnicas se consolidan como una herramienta indispensable para optimizar la gestión de la producción y mejorar la calidad del producto final.

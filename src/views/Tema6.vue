@@ -16,7 +16,7 @@
         img(src='@/assets/curso/temas/Tema6/img01.png', alt='')
       .col-lg-4
         .row
-          .col-lg-3.mb-4.col-2
+          .col-lg-3.mb-4.col-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema6/ico1.svg', alt='')
           .col-lg-12
             p.px-2 El cuero es la principal materia prima en marroquinería y se compone de dos capas: la flor y la carnaza. La flor corresponde a la parte exterior del material y conserva la textura natural de la piel animal, mientras que la carnaza es la capa interna o reverso del cuero.
@@ -27,7 +27,7 @@
       .col-lg-4.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-6
+            .col-sm-5.col-lg-4.col-5
               img(src='@/assets/curso/temas/Tema6/ico2.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-11.col-sm-8
@@ -36,7 +36,7 @@
       .col-lg-4.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-6
+            .col-sm-5.col-lg-4.col-5
               img(src='@/assets/curso/temas/Tema6/ico2.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-11.col-sm-8
@@ -45,7 +45,7 @@
       .col-lg-4.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-6
+            .col-sm-5.col-lg-4.col-5
               img(src='@/assets/curso/temas/Tema6/ico2.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-11.col-sm-8
@@ -90,7 +90,7 @@
             .py-2
             figcaption Fuente SENA.
             .py-2 
-      .col-lg-4.col-10
+      .col-lg-4.col-8
         img(src='@/assets/curso/temas/Tema6/img03.png', alt='')
 
 
@@ -112,7 +112,7 @@
               .col-lg-7
                 p.text-negro.mb-0 Una vez elaborados los moldes, el corte se puede realizar de forma mecánica, utilizando troqueladoras, cortadoras de rayo láser o de chorro de agua, o de manera manual con cuchilla, método que se abordará en este curso. Para obtener un corte preciso, es esencial contar con un banco de trabajo adecuado y una piedra de afilar para mantener el filo de la cuchilla en óptimas condiciones.
                 p.text-negro Para el corte de materia prima, especialmente cuero, es fundamental considerar su estiramiento. Para las piezas, se emplea cuchilla en cuero y sintéticos, mientras que en textiles se utilizan tijeras. En el caso del cuero, sintéticos o cartón, el molde se coloca sobre el material antes de realizar el corte, asegurando precisión en el proceso.
-              .col-lg-5
+              .col-lg-5.col-md-10
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 46. 
                   |Mesa de corte 
@@ -125,7 +125,8 @@
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-7
                 p.mb-0.text-negro El desbastado es el proceso de reducción del calibre o grosor en los bordes de las piezas, realizado según la función del material. Este procedimiento puede efectuarse de forma manual o con una máquina desbastadora. Su aplicación facilita el ensamblaje del producto al evitar abultamientos, permitiendo costuras más limpias y un mejor acabado estético. Además, es una técnica clave en la elaboración de vivos y ribetes.
-              .col-lg-5
+              .col-lg-5.col-md-10
+                br
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 47. 
                   |Desbaste de pieza 
@@ -138,7 +139,8 @@
            .row.justify-content-center.align-items-center.mb-5
               .col-lg-7
                 p.mb-0.text-negro Es un proceso que se realiza cuando hay piezas que quedan al corte al momento de ensamblarlas. Para ello es importante revisar qué piezas necesitan entintar sus cantos o bordes para aplicar tinta marroquinera a éstos. Esta operación también se puede hacer con un pincel.
-              .col-lg-5
+              .col-lg-5.col-md-10
+                br
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 48. 
                   | Entintado de bordes

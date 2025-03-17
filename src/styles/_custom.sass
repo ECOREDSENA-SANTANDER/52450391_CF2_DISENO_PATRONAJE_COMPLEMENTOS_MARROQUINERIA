@@ -33,7 +33,9 @@
     transform: rotate(15deg) /* Inclina el bolso a la derecha */
   100% 
     transform: rotate(-15deg)  
-  
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl
+    --bs-gutter-x: 3.5rem   
 .banner-principal .tarjeta
   background-position: left 50% !important
 
@@ -84,9 +86,9 @@ figcaption
   @media screen and (max-width: 767px)
     background-size: cover 
     margin-inline: -2.4rem
-    margin-right: -1rem
+    margin-right: -2rem
     margin-left: -2rem
-
+    
 .fondo01
   background-image: url('../assets/curso/temas/Tema1/fondo01.png')
   background-position: center
@@ -146,9 +148,11 @@ figcaption
   margin: 0 3px !important
 .fondo2
   background-image: url('../assets/curso/fondo.png')
+  background-position: center
   background-size: 100% 100%
   background-repeat: no-repeat
-  background-position: center 
+
+  
 .fondotarjeta2
   background-color: #EDF1EF 
   border-color: #567E6F !important
@@ -161,7 +165,10 @@ figcaption
   background-image: url('../assets/curso/temas/Tema1/fondo1.png')
   background-size: 100% 100%
   background-repeat: no-repeat
-  background-position: center 
+  background-position: center
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    border-radius: 20px 
 .fondoslyder2
   background-image: url('../assets/curso/temas/Tema4/fondoslyder.png')
   background-size: 100% 100%
@@ -240,12 +247,16 @@ figcaption
   border-radius: 20px
 .bg33
   background-color: #DCE4E1
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -1rem
+    margin-left: -1rem
 .bg4
   background-color: #EADED2
   border-radius: 20px
   @media screen and (max-width: 767px)
     margin-inline: -2.4rem
-    margin-right: -1rem
+    margin-right: -2rem
     margin-left: -2rem
 .gris
   background-color: #EBE6E6
