@@ -8,20 +8,22 @@
       h1 Corte, preparación y confección de artículos de cuero
 
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-5.bg3.p-3.mb-3
+    .row.justify-content-center.mb-3(data-aos="flip-up")
+      .col-lg-5.bg3.p-3.mb-4
         br
         p.px-2 Para la confección de un producto, es fundamental llevar a cabo el proceso de corte y preparación del material, ya que en esta etapa se ajustan y acondicionan las piezas necesarias. Durante este proceso, se pueden realizar acciones como rebajar el material, entintar bordes, doblar y tinturar piezas, dependiendo del tipo de material con el que se trabaja. En el caso del cuero, es esencial conocer sus partes.
-      .col-lg-3.col-8.mb-3
+      .col-lg-3.col-8.mb-4
         img(src='@/assets/curso/temas/Tema6/img01.png', alt='')
       .col-lg-4
-        .row
+        .row.justify-content-start.mb-2(data-aos="flip-up")  
           .col-lg-3.mb-4.col-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema6/ico1.svg', alt='')
           .col-lg-12
             p.px-2 El cuero es la principal materia prima en marroquinería y se compone de dos capas: la flor y la carnaza. La flor corresponde a la parte exterior del material y conserva la textura natural de la piel animal, mientras que la carnaza es la capa interna o reverso del cuero.
-      
-    p Las secciones más relevantes del cuero para el proceso de corte incluyen:
+    
+    .row.justify-content-center.mb-3(data-aos="flip-up")  
+      .col-lg-12
+        p Las secciones más relevantes del cuero para el proceso de corte incluyen:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-sm-6.col-10
@@ -104,7 +106,7 @@
             h5 Nota. 
             p Antes de cortar, es fundamental verificar la pieza y el sentido de estiramiento del material para evitar deformaciones posteriores. Además, se debe considerar la industrialización del molde, asegurando que el corte se realice por el derecho del material. Si el molde indica 2X1, significa que deben obtenerse dos piezas, colocando primero la plantilla en una cara y luego volteándola para cortar la segunda.
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-acento-botones.text-white
           .tarjeta.color-acento-botones.bg55.p-4(titulo="Proceso de Corte")
@@ -161,7 +163,7 @@
       .col-lg-3.col-8.mb-4.col-sm-6
         img(src='@/assets/curso/temas/Tema6/img04.png', alt='')
       .col-lg-9
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Doblado de piezas con curva entrante")
             .col-md-12.mb-4.mb-md-0
               p Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.

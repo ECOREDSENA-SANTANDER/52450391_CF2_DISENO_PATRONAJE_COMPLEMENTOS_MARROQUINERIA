@@ -44,7 +44,7 @@
     .row.justify-content-center(data-aos="flip-up").fondot3.p-4
       .col-lg-12.col-12.px-lg-5.px-4
         p Existen diferentes tipos de manijas, así:
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-2
           .col-lg-4.mb-2.col-sm-7
             img(src='@/assets/curso/temas/Tema3/img02.png', alt='')
           .col-lg-4
@@ -86,10 +86,11 @@
     .row.justify-content-center.align-items-center(data-aos="zoom-in-rigth")
       .col-lg-4.mb-2.col-sm-7
         img(src='@/assets/curso/temas/Tema3/img03.png', alt='')
+        .py-2
       .col-lg-4
         p #[b II. Manija con relleno:] son manijas generalmente de mano o medianas que tienen un alma que puede ser de: algodón, plástico, manguera transparente.
-    .row.justify-content-center.align-items-center.mb-5.p-4 
-      .col-lg-8.col-sm-12
+    .row.justify-content-center.mb-1
+      .col-lg-8.col-sm-12.col-12
         p Se tiene en cuenta el espesor del relleno y el largo de la manija. Para el caso de una manija de mano y con un cordón de 10 mm de espesor, se trabaja el siguiente molde. El largo es el que puede cambiar. 
 
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
@@ -104,7 +105,7 @@
 
     .row.justify-content-center(data-aos="flip-up").fondot3.p-4
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-0
           .col-lg-4.mb-2.col-sm-7
             img(src='@/assets/curso/temas/Tema3/img04.png', alt='')
           .col-lg-4
@@ -159,7 +160,7 @@
         p Abre el molde y lo marca o industrializa. 
 
       .col-lg-6
-        .row.align-items-center.justify-content-center.mb-4(data-aos="fade-left")
+        .row.align-items-center.justify-content-center.mb-0(data-aos="fade-left")
           .col-lg-8.col-sm-10
             .titulo-sexto.color-acento-contenido.text-negro
               h5.text-negro Figura 32. 
@@ -259,70 +260,70 @@
           figcaption.text-negro Fuente SENA.
 
 
-      .row.justify-content-center.mb-2(data-aos="flip-up")
-        .col-lg-12.col-12.col-md-12
-          .tarjeta.fondolink2.p-4.mb-0
-            .row.justify-content-around.align-items-center.py-4
-              .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/Tema3/web.svg")
-              .col-lg-10.py-4
-                p Para obtener más información, visite los siguientes enlaces, donde encontrará recursos clave que enriquecerán su formación.
-                .row.justify-content-between.align-items-end.mb-3
-                  .col.mb-3.mb-sm-0
-                    .py-2
-                    h5.mb-1.cafe Cartilla del proyecto “Fortalecimiento y desarrollo de la actividad artesanal en la ciudad  de Bogotá primera fase”
-                  .col-sm-auto.col-lg-2
-                    a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
-                      span Ir al sitio
-                      i.fas.fa-globe
-                .row.justify-content-around.align-items-center
-                  .col-12-lg-12
-                    img(src="@/assets/curso/temas/Tema3/linea.svg")
-                .row.justify-content-between.align-items-end.mb-3
-                  .col.mb-3.mb-sm-0
-                    h5.mb-1.cafe Cartilla de marroquinería 
-                  .col-sm-auto.col-lg-2
-                    a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
-                      span Ir al sitio
-                      i.fas.fa-globe
+    .row.justify-content-center.mb-2(data-aos="flip-up")
+      .col-lg-12.col-12.col-md-12
+        .tarjeta.fondolink2.mb-0.p-2
+          .row.justify-content-center.align-items-center.py-4
+            .col-5.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/Tema3/web.svg")
+            .col-lg-10.py-4
+              p Para obtener más información, visite los siguientes enlaces, donde encontrará recursos clave que enriquecerán su formación.
+              .row.justify-content-between.align-items-end.mb-3
+                .col.mb-3.mb-sm-0
+                  .py-2
+                  h5.mb-1.cafe Cartilla del proyecto “Fortalecimiento y desarrollo de la actividad artesanal en la ciudad  de Bogotá primera fase”
+                .col-sm-auto.col-lg-2
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
+              .row.justify-content-around.align-items-center
+                .col-12-lg-12
+                  img(src="@/assets/curso/temas/Tema3/linea.svg")
+              .row.justify-content-between.align-items-end.mb-3
+                .col.mb-3.mb-sm-0
+                  h5.mb-1.cafe Cartilla de marroquinería 
+                .col-sm-auto.col-lg-2
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
                  
-                .row.justify-content-around.align-items-center
-                  .col-12-lg-12
-                    img(src="@/assets/curso/temas/Tema3/linea.svg")
+              .row.justify-content-around.align-items-center
+                .col-12-lg-12
+                  img(src="@/assets/curso/temas/Tema3/linea.svg")
 
-                .row.justify-content-between.align-items-end.mb-3
-                  .col.mb-3.mb-sm-0
-                    h5.mb-1.cafe Cartilla elaboración de cinturones
-                  .col-sm-auto.col-lg-2
-                    a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Elaboracion_de_cinturones.pdf" target="_blank")
-                      span Ir al sitio
-                      i.fas.fa-globe
+              .row.justify-content-between.align-items-end.mb-3
+                .col.mb-3.mb-sm-0
+                  h5.mb-1.cafe Cartilla elaboración de cinturones
+                .col-sm-auto.col-lg-2
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Elaboracion_de_cinturones.pdf" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
               
-                .row.justify-content-around.align-items-center
-                  .col-12-lg-12
-                    img(src="@/assets/curso/temas/Tema3/linea.svg")
+              .row.justify-content-around.align-items-center
+                .col-12-lg-12
+                  img(src="@/assets/curso/temas/Tema3/linea.svg")
                 
-                .row.justify-content-between.align-items-end.mb-3
-                  .col.mb-3.mb-sm-0
-                    h5.mb-1.cafe Cartilla maletín ejecutivo estructurado
-                  .col-sm-auto.col-lg-2
-                    a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Maletin_ejecutivo_estructurado.pdf" target="_blank")
-                      span Ir al sitio
-                      i.fas.fa-globe
+              .row.justify-content-between.align-items-end.mb-3
+                .col.mb-3.mb-sm-0
+                  h5.mb-1.cafe Cartilla maletín ejecutivo estructurado
+                .col-sm-auto.col-lg-2
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Maletin_ejecutivo_estructurado.pdf" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
     
 
-                .row.justify-content-around.align-items-center
-                  .col-12-lg-12
-                    img(src="@/assets/curso/temas/Tema3/linea.svg")
+              .row.justify-content-around.align-items-center
+                .col-12-lg-12
+                  img(src="@/assets/curso/temas/Tema3/linea.svg")
                 
-                .row.justify-content-between.align-items-end.mb-4
-                  .col.mb-3.mb-sm-0
-                    h5.mb-1.cafe Cartilla Técnico - Pedagógica corporación de desarrollo productivo del cuero, calzado y marroquinería calzado y Marroquinería
-                  .col-sm-auto.col-lg-2
-                    a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_tecnico_pedagogica_calzado_y_marroquineria.pdf" target="_blank")
-                      span Ir al sitio
-                      i.fas.fa-globe
-                    .py-3
+              .row.justify-content-between.align-items-end.mb-4
+                .col.mb-3.mb-sm-0
+                  h5.mb-1.cafe Cartilla Técnico - Pedagógica corporación de desarrollo productivo del cuero, calzado y marroquinería calzado y Marroquinería
+                .col-sm-auto.col-lg-2
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_tecnico_pedagogica_calzado_y_marroquineria.pdf" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
+                  .py-3
 
 
 

@@ -171,7 +171,7 @@
         figcaption Fuente SENA.  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-sm-10.col-12.mb-3
+      .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.mb-3.px-2
             .col-lg-12.col-sm-12
@@ -182,9 +182,9 @@
             figure
               img(src='@/assets/curso/temas/Tema4/figura41.svg', alt='')
       
-      .col-lg-4.col-sm-10.col-12
-        .tarjeta.fondotarjeta2.p-4.mb-3
-          .row.justify-content-center.mb-3.px-2
+      .col-lg-4.col-sm-10.col-12.mb-5
+        .tarjeta.fondotarjeta2.p-4
+          .row.justify-content-center.align-items-center.mb-3.px-2
             .col-lg-12.col-sm-12
               p.text-center La chapeta se trabaja de 14 cm de largo (el ancho lo define la hebilla como sucede se expuso en la primera parte y su forma la determina la puntera. 
             .titulo-sexto.color-acento-contenido
@@ -192,9 +192,10 @@
               span  Chapeta 
             figure
               img(src='@/assets/curso/temas/Tema4/figura42.svg', alt='')
-      .col-lg-4.col-sm-10.col-12
+      
+      .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
-          .row.justify-content-center.mb-3.px-2
+          .row.justify-content-center.align-items-center.mb-3.px-2
             .col-lg-12.col-sm-12
               p La chapeta se trabaja de 14 cm de largo (el ancho lo define la hebilla como sucede se expuso en la primera parte y su forma la determina la puntera. 
             .titulo-sexto.color-acento-contenido

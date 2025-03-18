@@ -16,9 +16,12 @@
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
               h3.bg2.py-2.w-card-text.text-white Partes de un bolso
-        .row.justify-content-center.align-items-center.mb-5
+        
+        
+        .row.justify-content-center.align-items-center.mb-2
           .col-lg-4.mb-2.col-sm-6.col-8
             img(src='@/assets/curso/temas/Tema2/img01.png', alt='')
+          .py-2
           .col-lg-8.col-12
             p El bolso se compone de diversas piezas, visibles o internas según el diseño:
             ul.lista-ul
@@ -55,6 +58,7 @@
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
           h3.bg2.py-2.w-card-text.text-white Medidas de aumento para moldes
+    
     p Para el ensamble del bolso, se aplican márgenes de aumento en los moldes según el material y el tipo de operación:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -123,7 +127,7 @@
               img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
               h3.bg2.py-2.w-card-text.text-white Marcado e industrialización de moldes
         
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-2
           .col-lg-4.mb-2.col-sm-6.col-12
             img(src='@/assets/curso/temas/Tema2/img02.png', alt='')
           .col-lg-8
@@ -149,7 +153,7 @@
                 i.fas.fa-check-circle
                 |#[b Numeración del molde:] identificación secuencial (ej. 1/6, 2/6, etc.).
 
-            .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+            .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
                 .col-lg-12.tarjeta.color
                   .row.align-items-center
                     .col-lg-2.d-none.d-lg-block
@@ -171,7 +175,7 @@
     
         p Existen diferentes estructuras de bolsos, una de ellas es el bolso tipo pinza, caracterizado por pinzas en la parte inferior que, al cerrarse, generan volumen o amplitud en la pieza.
     
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
       .col-lg-6
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 8. 
@@ -185,7 +189,7 @@
     p A continuación, se describen los pasos en la elaboración de los moldes:
     
     
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left").fondot03
+    .row.justify-content-center.mb-3(data-aos="zoom-in-left").fondot03
       .col-lg-8.col-11
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7.col-12
@@ -193,9 +197,9 @@
               h3.bg5.py-2.w-card-text Paso 1. Elaborar el molde patrón
         p Se corta cartulina de 51 cm x 37 cm. Ya que al largo se le debe aumentar la medida del ancho del bolso más 3 cm que se usan para trabajar la ventaja de costura.
         p En el caso del alto se agrega solo la mitad del ancho más los 3 cm de ventaja de costura. 
-        .py-4
+        .py-3
 
-      .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+      .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
         .col-lg-4.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 9. 
@@ -210,7 +214,7 @@
           p Posteriormente se traza una línea sobre la mitad de la cartulina iniciando por el largo del molde, esto con el fin de doblarlo y trabajar simetría. Tome la medida desde la línea de simetría hacia uno de los lados marcando la mitad de la medida del largo (para este caso 20 cm) y así mismo de la parte superior de la cartulina traza 8 mm hacia abajo para agregar ventaja de costura. 
 
 
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
       .col-lg-4.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 10.
@@ -306,7 +310,7 @@
         p Cuando el forro va suelto es importante crear el falso interno o porta cierre, a través del molde patrón, tomando desde la línea superior (sin tener en cuenta la ventaja de costura) se toman 4 cm hacia abajo y se traza una línea que permite sacar el falso interno o porta cierre del bolso. 
         .py-4
 
-      .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+      .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
         .col-lg-4.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 15. 
@@ -321,7 +325,7 @@
           p Posteriormente, sobre la línea trazada agrega 8 mm de ventaja de costura hacia abajo para obtener el molde del porta cierre.
 
 
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
       .col-lg-4.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 16. 
@@ -336,7 +340,7 @@
           p Se realiza el corte para la porta cierre trabajándolo a doblez. 
 
 
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
       .col-lg-4.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 17.
@@ -351,7 +355,7 @@
           p Posteriormente se abre el molde del Porta cierre o falso interno. 
 
 
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
       .col-lg-4.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 18. 
@@ -362,7 +366,7 @@
           figcaption.text-negro Fuente SENA.  
     
     
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-lg-8
           p A continuación, se marcan los moldes.
 
@@ -378,16 +382,16 @@
           figcaption.text-negro Fuente SENA.  
     
   
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left").fondot03
+    .row.justify-content-center.mb-0(data-aos="zoom-in-left").fondot03
       .col-lg-8.col-11
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-3
               h3.bg5.py-2.w-card-text Paso 3. Molde del forro
         p Para sacar el #[b molde del forro] del bolso. A través del molde patrón sobre la misma línea del falso interno se le agrega en la parte superior 8 mm de ventaja de costura y de esta manera se obtiene el forro del bolso. 
-        .py-4
+        .py-3
 
-      .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+      .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
         .col-lg-4.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 20. 
@@ -401,7 +405,7 @@
       .col-lg-8
           p Se realiza el corte del forro trabajándolo a doblez.
 
-    .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
         .col-lg-4.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 21. 
@@ -417,7 +421,7 @@
         .row.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-8.col-12
             p Posteriormente abre el molde del Forro. 
-      .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
+      .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
         .col-lg-4.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 22. 

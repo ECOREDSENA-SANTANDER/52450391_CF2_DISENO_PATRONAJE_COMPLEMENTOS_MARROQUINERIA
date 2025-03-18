@@ -9,7 +9,7 @@
       
       p.mb-4 En la creación de moldes para distintos diseños de artículos, es esencial contar con herramientas adecuadas que faciliten el proceso y garanticen precisión en el corte y trazado. A continuación, se presentan algunas de las principales herramientas utilizadas:
       
-      .row.fondo01.align-items-center.p-4(data-aos="fade-down").mb-5
+      .row.fondo01.align-items-center.p-4(data-aos="fade-down").mb-2
         .col-lg-12.col-12.px-lg-5.px-4
           .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
             .col-lg-4.col-11.col-sm-6.mb-3.d-none.d-lg-block
@@ -78,7 +78,7 @@
           .col-lg-12
             p En el sector de la marroquinería, así como en otros ámbitos productivos, se requiere el uso de herramientas y maquinaria especializadas para la confección de modelos. Estos procesos pueden realizarse de manera manual, con herramientas, o a nivel industrial, mediante el uso de máquinas.
       
-      .row.align-items-center.p-4(data-aos="fade-down").mb-5
+      .row.align-items-center.p-4(data-aos="fade-down").mb-2
         .col-lg-12.col-12.px-lg-5.px-1
           .tarjeta--container.row(data-aos="zoom-in-left")
             .col-md-12.tarjeta.bg10.p-5.col-lg-6
@@ -99,7 +99,7 @@
                     h3.mb-0.text-white Maquinaria
               p El uso de maquinaria optimiza los procesos de confección, mejorando la eficiencia y la calidad del producto final; entre las más utilizadas se encuentran las máquinas de coser industriales, prensas de corte y equipos de grabado, entre otras. La combinación de herramientas manuales y maquinaria especializada es clave para garantizar acabados precisos y productos de alta calidad en la marroquinería.
              
-      .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
+      .row.justify-content-center.align-items-center(data-aos="fade-left").mb-0
         .col-lg-3.col-8.col-sm-6
           img(src='@/assets/curso/temas/Tema1/img02.png', alt='')
         .col-lg-9
