@@ -170,7 +170,7 @@
           .col-sm-12.col-lg-7.col-12
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
-              h3.bg2.py-2.w-card-text.text-white Marcado e industrialización de moldes
+              h3.bg2.py-2.w-card-text.text-white Tipologías de moldería en bolsos
     
     
         p Existen diferentes estructuras de bolsos, una de ellas es el bolso tipo pinza, caracterizado por pinzas en la parte inferior que, al cerrarse, generan volumen o amplitud en la pieza.
@@ -182,8 +182,8 @@
           | Bolso tipo pinza
         figure
           img(src='@/assets/curso/temas/Tema2/figura8.svg', alt='La imagen presenta un bolso elegante de tamaño mediano con asas cortas y una correa larga ajustable para llevarlo al hombro. Su diseño incluye un patrón mono gramado en tonos marrón y detalles en cuero color camel. Además, cuenta con un adorno metálico colgante con el logo de la marca y herrajes dorados que complementan su estilo sofisticado. ')
-          .py-2
-          figcaption.text-negro Fuente SENA.  
+    
+      
     
     
     p A continuación, se describen los pasos en la elaboración de los moldes:
@@ -266,6 +266,9 @@
           img(src='@/assets/curso/temas/Tema2/figura13.svg', alt='La imagen expone el proceso de corte del molde para la confección de un bolso, tras la adición de la ventaja de costura. Incluye dos esquemas: el primero muestra el molde doblado con detalles del corte y una ampliación circular de una sección específica, mientras que el segundo presenta el molde completamente extendido. Se destacan las zonas de ventaja de costura en los bordes con etiquetas en azul, y una flecha indica la transición entre las dos etapas del proceso. ')
           .py-2
           figcaption.text-negro Fuente SENA.  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        p Posteriormente se realiza la marcación. 
     
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
       .col-lg-4.col-10

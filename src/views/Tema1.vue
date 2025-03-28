@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Apropiación de conceptos básicos de marroquinería
+        h1 Herramientas y maquinaria para marroquinería
       
       p.mb-4 En la creación de moldes para distintos diseños de artículos, es esencial contar con herramientas adecuadas que faciliten el proceso y garanticen precisión en el corte y trazado. A continuación, se presentan algunas de las principales herramientas utilizadas:
       
@@ -211,7 +211,7 @@
                   h5 Figura 2.
                   span  Máquina de poste
                 figure
-                  img(src='@/assets/curso/temas/Tema1/figura2.png', alt='La imagen presenta una máquina ribeteadora, diseñada para la costura de bordes y acabados en materiales textiles, cuero y sintéticos. Su estructura robusta incluye un cabezal con mecanismo de aguja, una base resistente y una mesa de trabajo que facilita la estabilidad durante el proceso de costura. Su diseño permite la aplicación de ribetes y refuerzos en prendas y productos de marroquinería. ')
+                  img(src='@/assets/curso/temas/Tema1/figura2.png', alt='La imagen presenta una máquina de coser de poste, caracterizada por su diseño vertical que facilita la costura en materiales voluminosos o tridimensionales. La estructura incluye un cabezal elevado, una base sólida y una mesa de trabajo adaptada para su instalación. Su mecanismo permite una mayor maniobrabilidad en piezas de difícil acceso, siendo común en la industria del calzado y marroquinería. ')
             
             .row.justify-content-center.align-items-start(titulo="Máquina ribeteadora ")
               .col-md-7
