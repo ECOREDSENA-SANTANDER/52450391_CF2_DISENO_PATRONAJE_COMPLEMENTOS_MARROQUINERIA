@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Inspiración para el diseño
+      h1 Moldería en común para bolsos
 
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
       .col-lg-5.col-sm-7

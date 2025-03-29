@@ -45,7 +45,7 @@
       .col-lg-3.col-sm-8
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2. 
-          span  Tallaje mosculino
+          span  Tallaje masculino
         .tabla-b.color-acento-contenido.mb-2(alt='La tabla presenta un sistema de tallaje masculino, relacionando las tallas con medidas en centímetros. Incluye las tallas 28, 30, 32, 34, 36 y 38, con valores que van desde 95 cm hasta 120 cm en incrementos de 5 cm. Su estructura permite identificar fácilmente la medida correspondiente a cada talla. ')
           .tabla-b__header
             h4.mb-0 TALLAJE MASCULINO

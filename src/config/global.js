@@ -135,7 +135,7 @@ export default {
     {
       termino: 'Marroquinería',
       significado:
-        'arte y técnica de transformar el cuero en productos funcionales y estéticos como bolsos, billeteras y correas.',
+        'Arte y técnica de trabajar el cuero para fabricar accesorios como bolsos, cinturones y billeteras.',
     },
     {
       termino: 'Patronaje',
@@ -265,7 +265,7 @@ export default {
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y productor multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -274,7 +274,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth González Quintero',
+          nombre: 'Erika Daniela Manrique  Rueda',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

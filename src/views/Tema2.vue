@@ -325,7 +325,7 @@
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-lg-8
-          p Posteriormente, sobre la línea trazada agrega 8 mm de ventaja de costura hacia abajo para obtener el molde del porta cierre.
+          p Posteriormente, sobre la línea trazada agregue 8 mm de ventaja de costura hacia abajo para obtener el molde del porta cierre.
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
@@ -340,7 +340,7 @@
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-lg-8
-          p Se realiza el corte para la porta cierre trabajándolo a doblez. 
+          p Se realiza el corte para el porta cierre trabajándolo a doblez. 
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
@@ -355,7 +355,7 @@
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-lg-8
-          p Posteriormente se abre el molde del Porta cierre o falso interno. 
+          p Posteriormente se abre el molde del porta cierre o falso interno. 
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
@@ -423,7 +423,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-8.col-12
-            p Posteriormente abre el molde del Forro. 
+            p Posteriormente abre el molde del forro. 
       .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
         .col-lg-4.col-10
           .titulo-sexto.color-acento-contenido.text-negro
