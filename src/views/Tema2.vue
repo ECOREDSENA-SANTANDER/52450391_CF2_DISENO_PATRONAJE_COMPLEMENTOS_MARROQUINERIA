@@ -62,24 +62,24 @@
     p Para el ensamble del bolso, se aplican márgenes de aumento en los moldes según el material y el tipo de operación:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-sm-8.col-12
+      .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
           .row.justify-content-center.align-items-center.mb-3
             .col-sm-4.col-lg-5.col-4
               img(src='@/assets/curso/temas/Tema2/ico1.svg')
-          .row.justify-content-center.mb-3.px-4
-            .col-lg-12.col-sm-8
-              p #[b Montaje y unión:] 10 mm (aplicable a cuero, textil y sintético).
+          .row.justify-content-center.mb-3
+            .col-lg-12.col-sm-12
+              p.p #[b Montaje y unión:] 10 mm (aplicable a cuero, textil y sintético).
       
-      .col-lg-3.col-sm-8.col-12
-        .tarjeta.fondoslyder3.p-4
+      .col-lg-3.col-md-6.col-12.mb-lg-0
+        .tarjeta-avatar.fondoslyder3.p-4
           .row.justify-content-center.align-items-center.mb-3
             .col-sm-4.col-lg-5.col-4
               img(src='@/assets/curso/temas/Tema2/ico1.svg')
-          .row.justify-content-center.mb-3.px-4
-            .col-lg-12.col-sm-8
-              p #[b Doblado:] proceso en el que el material se pliega sobre sí mismo o sobre un refuerzo rígido para dar forma y estructura al producto.
-              ul.lista-ul
+          .row.justify-content-center.mb-3
+            .col-lg-12.col-sm-12
+              p.p #[b Doblado:] proceso en el que el material se pliega sobre sí mismo o sobre un refuerzo rígido para dar forma y estructura al producto.
+              ul.lista-ul.p
                 li.mb-0
                   i.fas.fa-check-circle
                   |#[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
@@ -87,15 +87,15 @@
                   i.fas.fa-check-circle
                   |#[b Textil/Sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
       
-      .col-lg-3.col-sm-8.col-12
+      .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
           .row.justify-content-center.align-items-center.mb-3
             .col-sm-4.col-lg-5.col-4
               img(src='@/assets/curso/temas/Tema2/ico1.svg')
-          .row.justify-content-center.mb-3.px-4
-            .col-lg-12.col-sm-8
-              p #[b Envivado:] técnica de acabado en los bordes del cuero, donde se recorta y pule para suavizar y mejorar la estética de la pieza.
-              ul.lista-ul
+          .row.justify-content-center.mb-3
+            .col-lg-12.col-sm-12
+              p.p #[b Envivado:] técnica de acabado en los bordes del cuero, donde se recorta y pule para suavizar y mejorar la estética de la pieza.
+              ul.lista-ul.p
                 li.mb-0
                   i.fas.fa-check-circle
                   |#[b Cuero:] 5 mm.
@@ -103,15 +103,15 @@
                   i.fas.fa-check-circle
                   |#[b Textil/Sintético:] 10 mm.    
     
-      .col-lg-3.col-sm-8.col-12
+      .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
           .row.justify-content-center.align-items-center.mb-3
             .col-sm-4.col-lg-5.col-4
               img(src='@/assets/curso/temas/Tema2/ico1.svg')
-          .row.justify-content-center.mb-3.px-4
-            .col-lg-12.col-sm-8
-              p #[b Costuras internas:] 
-              ul.lista-ul
+          .row.justify-content-center.mb-3
+            .col-lg-12.col-sm-12
+              p.p #[b Costuras internas:] 
+              ul.lista-ul.p
                 li.mb-0
                   i.fas.fa-check-circle
                   |#[b Cuero:] 8 mm.
@@ -181,8 +181,11 @@
           h5.text-negro Figura 8. 
           | Bolso tipo pinza
         figure
-          img(src='@/assets/curso/temas/Tema2/figura8.svg', alt='La imagen presenta un bolso elegante de tamaño mediano con asas cortas y una correa larga ajustable para llevarlo al hombro. Su diseño incluye un patrón mono gramado en tonos marrón y detalles en cuero color camel. Además, cuenta con un adorno metálico colgante con el logo de la marca y herrajes dorados que complementan su estilo sofisticado. ')
-    
+          img.mb-2(src='@/assets/curso/temas/Tema2/figura8.svg', alt='La imagen presenta un bolso elegante de tamaño mediano con asas cortas y una correa larga ajustable para llevarlo al hombro. Su diseño incluye un patrón mono gramado en tonos marrón y detalles en cuero color camel. Además, cuenta con un adorno metálico colgante con el logo de la marca y herrajes dorados que complementan su estilo sofisticado. ')
+      .col-lg-8  
+        figcaption Imagen tomada de:
+          span
+          <a href="https://www.raffaello-network.com/espanol/moda-detalle/608061/1608/Michael-Kors-Bolsos-(- Carteras-).html" target="_blank">https://www.raffaello-network.com/espanol/moda-detalle/608061/1608/Michael-Kors-Bolsos-(- Carteras-).html</a>
       
     
     
@@ -200,7 +203,7 @@
         .py-3
 
       .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-        .col-lg-4.col-9
+        .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 9. 
             | Molde patrón bolso tipo pinza 
@@ -215,10 +218,10 @@
 
 
     .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 10.
-          |  Molde patrón bolso tipo pinza  
+          |  Molde para agregar ventaja de costura
         figure
           img(src='@/assets/curso/temas/Tema2/figura10.svg', alt='La imagen representa un molde patrón para la confección de un bolso tipo pinza. Tiene una forma rectangular con dimensiones de 51 cm de ancho y 37 cm de alto. Incluye una línea de simetría central para marcar el doblez y medidas adicionales que indican la distribución del diseño, como separaciones de 20 cm en cada lado y una pinza de 8 mm en la parte superior derecha. Los detalles están resaltados en color azul para facilitar la comprensión del patrón. ')
           .py-2
@@ -230,7 +233,7 @@
           .col-sm-12.col-lg-8.col-12
             p Doble la cartulina y repase los trazos que ya marcó para posteriormente agregar los 4 cm que conforman el ancho del bolso tanto al lado como en la parte inferior. 
       .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-        .col-lg-4.col-10
+        .col-lg-6.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 11.
             |   Doblez  
@@ -241,10 +244,10 @@
 
       .row.justify-content-center.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-8.col-12
-          p Traza la pinza donde se interceptan las líneas que conforman el alto y el largo del bolso, y posteriormente, agrega ventaja de costura tanto al lado como a la pinza y a la parte inferior del molde. 
+          p Trace la pinza donde se interceptan las líneas que conforman el alto y el largo del bolso, y posteriormente, agregar ventaja de costura tanto al lado como a la pinza y a la parte inferior del molde.  
       
       .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-        .col-lg-4.col-10
+        .col-lg-6.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 12. 
             | Trazado de pinza 
@@ -258,7 +261,7 @@
           p Ya habiendo agregado la ventaja de costura, se procede a cortar y a abrir el molde. 
 
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-8.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 13. 
           | Corte de molde 
@@ -271,7 +274,7 @@
         p Posteriormente se realiza la marcación. 
     
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 14.
           |  Marcación 
@@ -314,7 +317,7 @@
         .py-4
 
       .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
-        .col-lg-4.col-9
+        .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 15. 
             | Falso interno  
@@ -325,11 +328,11 @@
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-lg-8
-          p Posteriormente, sobre la línea trazada agregue 8 mm de ventaja de costura hacia abajo para obtener el molde del porta cierre.
+          p Posteriormente, sobre la línea trazada agregue 8 mm de ventaja de costura hacia abajo para obtener el molde del porta cierre.  
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 16. 
           |  Línea para porta cierre 
@@ -344,7 +347,7 @@
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 17.
           |   Doblez porta cierre 
@@ -359,7 +362,7 @@
 
 
     .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 18. 
           |  Molde porta cierre abierto 
@@ -375,7 +378,7 @@
 
 
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-8.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 19.
           |   Marcar moldes  
@@ -395,7 +398,7 @@
         .py-3
 
       .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
-        .col-lg-4.col-9
+        .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 20. 
             | Molde forro 
@@ -425,7 +428,7 @@
           .col-sm-12.col-lg-8.col-12
             p Posteriormente abre el molde del forro. 
       .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
-        .col-lg-4.col-10
+        .col-lg-6.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 22. 
             |  Posterior forro 
@@ -439,7 +442,7 @@
           p A continuación, se marcan los moldes. 
       
       .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-        .col-lg-4.col-10
+        .col-lg-6.col-10
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 23. 
             | Marcación de moldes 
@@ -453,7 +456,7 @@
           p Si el bolso necesita un refuerzo en su base, éste se saca según el largo del cuerpo por el ancho y restándole 3 mm por cada lado. 
 
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-8.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 24. 
           | Refuerzo 
@@ -468,7 +471,7 @@
         p Este mismo bolso puede venir unido el frente y el espaldar, para ello en la parte inferior del molde patrón no se agrega ventaja de costura, sino que se dobla el molde horizontalmente para poder cortar simétrico el nuevo patrón, como se muestra en la figura.
       
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10
+      .col-lg-6.col-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 25.
           | Cuerpo bolso tipo pinza 
@@ -491,7 +494,7 @@
         .py-4
 
       .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-        .col-lg-8.col-9
+        .col-lg-9.col-9
           .titulo-sexto.color-acento-contenido.text-negro
             h5.text-negro Figura 26. 
             | Industrialización de los moldes 

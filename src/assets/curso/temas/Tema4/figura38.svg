@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="928" height="104" viewBox="0 0 928 104">
-  <g id="Grupo_1106628" data-name="Grupo 1106628" transform="translate(-331.456 -1304)">
-    <text id="Puntera" transform="translate(331.456 1364)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Puntera</tspan></text>
-    <text id="Pasador" transform="translate(1163.456 1312)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Pasador</tspan></text>
-    <text id="Hebilla" transform="translate(1234.456 1366)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Hebilla</tspan></text>
-    <text id="Chapeta" transform="translate(1095.456 1406)" fill="#4b1c16" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Chapeta</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="983" height="116" viewBox="0 0 983 116">
+  <g id="Grupo_1106628" data-name="Grupo 1106628" transform="translate(-301.456 -1297)">
+    <text id="Puntera" transform="translate(301.456 1364)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Puntera</tspan></text>
+    <text id="Pasador" transform="translate(1166.456 1312)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Pasador</tspan></text>
+    <text id="Hebilla" transform="translate(1234.456 1374)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Hebilla</tspan></text>
+    <text id="Chapeta" transform="translate(1066.456 1409)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Chapeta</tspan></text>
     <g id="Grupo_1106622" data-name="Grupo 1106622" transform="translate(390 1340.664)">
       <g id="Grupo_1106623" data-name="Grupo 1106623" transform="translate(0 0)">
         <path id="Trazado_891146" data-name="Trazado 891146" d="M388.859,38.257h-32.04a3.5,3.5,0,0,1-3.5-3.5V4.007a3.5,3.5,0,0,1,3.5-3.5h32.04a3.5,3.5,0,0,1,3.5,3.5V34.756a3.5,3.5,0,0,1-3.5,3.5m.451-6.446V6.953a3.5,3.5,0,0,0-3.5-3.5H359.864a3.5,3.5,0,0,0-3.5,3.5V31.811a3.5,3.5,0,0,0,3.5,3.5h25.948a3.5,3.5,0,0,0,3.5-3.5" transform="translate(427.39 0.614)" fill="#fff" stroke="#707070" stroke-width="1"/>

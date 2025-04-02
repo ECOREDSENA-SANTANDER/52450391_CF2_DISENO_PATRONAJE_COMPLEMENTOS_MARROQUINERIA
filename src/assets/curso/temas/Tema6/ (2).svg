@@ -34,13 +34,13 @@
       <g transform="matrix(1, 0, 0, 1, 390, 2045.01)" filter="url(#Rectángulo_402128)">
         <rect id="Rectángulo_402128-2" data-name="Rectángulo 402128" width="378" height="13" transform="translate(221.46 47.99)" fill="#8d7964"/>
       </g>
-      <text id="Estira_el_material" data-name="Estira el material" transform="translate(800.456 2310.335)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-59.426" y="0">Estira el material</tspan></text>
+      <text id="Estira_el_material" data-name="Estira el material" transform="translate(800.456 2307.335)" fill="#4b1c16" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-37.141" y="0">Estira el material</tspan></text>
       <g id="Grupo_1106684" data-name="Grupo 1106684" transform="translate(-32.5 756.335)">
         <line id="Línea_725" data-name="Línea 725" x2="298" transform="translate(682.456 1538)" fill="none" stroke="#567e6f" stroke-width="1"/>
         <path id="Polígono_6" data-name="Polígono 6" d="M3,0,6,5H0Z" transform="translate(680 1541) rotate(-90)" fill="#567e6f"/>
         <path id="Polígono_7" data-name="Polígono 7" d="M3,0,6,5H0Z" transform="translate(985 1535) rotate(90)" fill="#567e6f"/>
       </g>
-      <text id="Estabilidad" transform="translate(971.5 2201.379) rotate(-90)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-39.324" y="0">Estabilidad</tspan></text>
+      <text id="Estabilidad" transform="translate(968.5 2201.379) rotate(-90)" fill="#4b1c16" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-24.578" y="0">Estabilidad</tspan></text>
       <g id="Grupo_1106677" data-name="Grupo 1106677" transform="translate(-582.5 2974.335) rotate(-90)">
         <line id="Línea_725-2" data-name="Línea 725" x2="176.5" transform="translate(682.456 1538)" fill="none" stroke="#567e6f" stroke-width="1"/>
         <path id="Polígono_6-2" data-name="Polígono 6" d="M3,0,6,5H0Z" transform="translate(680 1541) rotate(-90)" fill="#567e6f"/>
@@ -52,7 +52,7 @@
           <rect x="0.5" y="0.5" width="399" height="32" rx="12.5" fill="none"/>
         </g>
       </g>
-      <text id="Rollo" transform="translate(800.456 2095)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-18.395" y="0">Rollo</tspan></text>
+      <text id="Rollo" transform="translate(800.456 2095)" fill="#fff" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-11.497" y="0">Rollo</tspan></text>
     </g>
   </g>
 </svg>

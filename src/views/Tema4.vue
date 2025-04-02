@@ -86,7 +86,7 @@
     p.mb-5 El cinturón se compone de 4 partes principales, las cuales son: 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-8
+      .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 38. 
           span  Partes del cinturón 
@@ -102,9 +102,9 @@
               img(src='@/assets/curso/temas/Tema4/ico1.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white A) Puntera:
+              h5.text-center.bg-color.text-white a) Puntera: 
             .col-lg-12.col-sm-8
-              p.text-center Define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
+              p.text-center define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
       
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -113,9 +113,9 @@
               img(src='@/assets/curso/temas/Tema4/ico2.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white B) Pasador: 
+              h5.text-center.bg-color.text-white b) Pasador: 
             .col-lg-12.col-sm-8
-              p.text-center Pieza que permite sujetar la puntera después de atravesar la hebilla.
+              p.text-center pieza que permite sujetar la puntera después de atravesar la hebilla.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -124,9 +124,9 @@
               img(src='@/assets/curso/temas/Tema4/ico3.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white C) Chapeta: 
+              h5.text-center.bg-color.text-white c) Chapeta:  
             .col-lg-12.col-sm-8
-              p.text-center Pieza que sostiene la hebilla para armar el cinturón.
+              p.text-center pieza que sostiene la hebilla para armar el cinturón.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -135,9 +135,9 @@
               img(src='@/assets/curso/temas/Tema4/ico4.svg')
           .row.justify-content-center.mb-3.px-2
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white D) Hebilla: 
+              h5.text-center.bg-color.text-white d) Hebilla: 
             .col-lg-12.col-sm-8
-              p.text-center Es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
+              p.text-center es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
            
      
     .row.justify-content-center.align.mb-5(data-aos="fade-left")
@@ -180,31 +180,33 @@
               h5 Figura 41. 
               span  Puntera  
             figure
-              img(src='@/assets/curso/temas/Tema4/figura41.svg', alt='')
+              img(src='@/assets/curso/temas/Tema4/figura41.svg', alt='La figura representa la puntera de un cinturón, detallando sus dimensiones y la distribución de los orificios para el ajuste. Se indica un rango de longitud entre 13 y 15 cm desde el extremo redondeado hasta el primer orificio, con una separación de 2.5 cm entre cada perforación. El diseño facilita la regulación del tamaño del cinturón.')
       
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
             .col-lg-12.col-sm-12
-              p.text-center La chapeta se trabaja de 14 cm de largo (el ancho lo define la hebilla como sucede se expuso en la primera parte y su forma la determina la puntera. 
+              p  La chapeta se trabaja de 14 cm de largo (el ancho lo define la hebilla como se expuso en la primera parte y su forma la determina la puntera).
             .titulo-sexto.color-acento-contenido
               h5 Figura 42. 
               span  Chapeta 
             figure
-              img(src='@/assets/curso/temas/Tema4/figura42.svg', alt='')
+              img(src='@/assets/curso/temas/Tema4/figura42.svg', alt='La imagen representa una chapeta con forma alargada y extremos curvos o biselados. Su dimensión de ancho es de 14 cm, según la anotación en azul. La estructura de la pieza sugiere que es utilizada como refuerzo, adorno o elemento funcional en un proceso de confección. ')
       
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
             .col-lg-12.col-sm-12
-              p La chapeta se trabaja de 14 cm de largo (el ancho lo define la hebilla como sucede se expuso en la primera parte y su forma la determina la puntera. 
+              p El largo del pasador se obtiene del ancho del cinturón, esta medida se duplica y se le agrega 1 cm. Y para obtener el ancho, este se trabaja con una medida estándar de 1.5 cm. 
             .titulo-sexto.color-acento-contenido
               h5 Figura 43. 
               span  Chapeta 
             figure
-              img(src='@/assets/curso/temas/Tema4/figura43.svg', alt='')
+              img(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
+      figcaption Fuente SENA.  
     
-
+    
+    
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-7.tarjeta.color.p-2
         .row.align-items-center

@@ -74,7 +74,7 @@
                   | El largo puede cambiar
 
     .row.justify-content-center.align-items-center.p-2.mb-5
-      .col-lg-6
+      .col-lg-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 27. 
           | Molde manija plana 
@@ -94,7 +94,7 @@
         p Se tiene en cuenta el espesor del relleno y el largo de la manija. Para el caso de una manija de mano y con un cordón de 10 mm de espesor, se trabaja el siguiente molde. El largo es el que puede cambiar. 
 
     .row.justify-content-center.align-items-center.p-2.mb-5(data-aos="flip-up")
-      .col-lg-6
+      .col-lg-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 28. 
           | Molde para manija con relleno 
@@ -125,7 +125,7 @@
           h5.text-negro Figura 29. 
           | Molde para chapeta
         .row.align-items-center.justify-content-center.mb-4
-          .col-lg-6
+          .col-lg-12
             figure
               img(src='@/assets/curso/temas/Tema3/figura29.svg', alt='La imagen representa un molde para una chapeta, una pieza rectangular con dimensiones especificadas. Su ancho es de 14 cm y su altura de 4 cm, con una línea punteada en el centro que puede indicar una referencia para doblado o costura. El diseño es simple y está estructurado para facilitar su corte y ensamblaje dentro de un proceso de confección. ')
               .py-2
@@ -134,7 +134,7 @@
         p Sobre la línea de simetría maneje la medida del herraje restándole 3 mm. Para el caso de un herraje de 1 pulgada (2.54 cm). Desde el centro de la línea se marca el ancho a manejar y se dobla el molde. No olvide marcar los puntos. 
       .col-lg-6
         .row.align-items-center.justify-content-center.mb-4
-          .col-lg-7.col-sm-10
+          .col-lg-12.col-sm-10
             .titulo-sexto.color-acento-contenido.text-negro
               h5.text-negro Figura 30. 
               | Ancho para chapeta 
@@ -147,7 +147,7 @@
 
       .col-lg-6
         .row.align-items-center.justify-content-center.mb-4(data-aos="fade-left")
-          .col-lg-7.col-sm-10
+          .col-lg-12.col-sm-10
             .titulo-sexto.color-acento-contenido.text-negro
               h5.text-negro Figura 31. 
               | Molde chapeta para trazar 
@@ -157,11 +157,11 @@
           figcaption.text-negro Fuente SENA.  
 
       .col-lg-8
-        p Abre el molde y lo marca o industrializa. 
+        p Abra el molde y márquelo.  
 
-      .col-lg-6
+      .col-lg-8
         .row.align-items-center.justify-content-center.mb-0(data-aos="fade-left")
-          .col-lg-8.col-sm-10
+          .col-lg-12.col-sm-10
             .titulo-sexto.color-acento-contenido.text-negro
               h5.text-negro Figura 32. 
               | Molde y marca 
@@ -185,7 +185,7 @@
         img(src='@/assets/curso/temas/Tema3/img05.png', alt='')
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-lg-6.col-sm-10
+      .col-lg-8.col-sm-10
         .titulo-sexto.color-acento-contenido.text-negro
           h5.text-negro Figura 33. 
           | Molde porta documentos
@@ -201,7 +201,7 @@
     .row.justify-content-center(data-aos="flip-up").fondot33.p-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center.mb-4
-          .col-lg-6.col-sm-10
+          .col-lg-8.col-sm-10
             .titulo-sexto.color-acento-contenido.text-negro
               h5.text-negro Figura 34.
               |  Doble de molde porta documentos
@@ -220,7 +220,7 @@
               h5.text-negro Figura 35. 
               | Puntos de referencia en molde
             .row.justify-content-center
-              .col-lg-9
+              .col-lg-12
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura35.svg', alt='La figura presenta un molde con indicaciones de costura y un punto de referencia marcado en uno de sus lados. La estructura rectangular está dividida en secciones, lo que sugiere un diseño con pliegues o áreas diferenciadas para el ensamblaje. Los puntos de referencia pueden servir para la alineación precisa de las piezas durante el proceso de confección. ')
                   .py-2
@@ -236,7 +236,7 @@
               h5.text-negro Figura 36. 
               | Trazado de intervalo porta documentos 
             .row.justify-content-center
-              .col-lg-9
+              .col-lg-12
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura36.svg', alt='La figura representa el trazado del intervalo en un porta documentos, indicando las líneas de costura en la parte superior e inferior. En el interior, se señalan líneas paralelas con puntos de inicio y fin, que representar posiciones de marcas de referencia dentro del diseño. ')
                   .py-2
@@ -253,7 +253,7 @@
           h5.text-negro Figura 37. 
           | Trazado de líneas 
         .row.justify-content-center
-          .col-lg-9
+          .col-lg-12
             figure
               img(src='@/assets/curso/temas/Tema3/figura37.svg', alt='La figura representa un molde con líneas de trazado y marcas de costura en los bordes. Incluye líneas horizontales con flechas, que posiblemente indican guías para pliegues, costuras o ensamblaje. Además, se encuentra un rectángulo en una de las secciones, lo que sugiere un espacio designado para un bolsillo u otro elemento del diseño. ')
               .py-2
@@ -283,7 +283,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-1.cafe Cartilla de marroquinería 
                 .col-sm-auto.col-lg-2
-                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/cartilla_marroquineria_modelaje_bolsos.pdf" target="_blank")
                     span Ir al sitio
                     i.fas.fa-globe
                  
@@ -318,7 +318,7 @@
                 
               .row.justify-content-between.align-items-end.mb-4
                 .col.mb-3.mb-sm-0
-                  h5.mb-1.cafe Cartilla Técnico - Pedagógica corporación de desarrollo productivo del cuero, calzado y marroquinería calzado y Marroquinería
+                  h5.mb-4.cafe Cartilla Técnico - Pedagógica corporación de desarrollo productivo del cuero, calzado y marroquinería. 
                 .col-sm-auto.col-lg-2
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_tecnico_pedagogica_calzado_y_marroquineria.pdf" target="_blank")
                     span Ir al sitio

@@ -167,7 +167,7 @@
           .row(titulo="Doblado de piezas con curva entrante")
             .col-md-12.mb-4.mb-md-0
               p Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.
-          .row(titulo="Doblado de Piezas con Curva Saliente")
+          .row(titulo="Doblado de piezas con curva saliente")
             .col-md-6.mb-4.mb-md-0
               p En este caso, se aplica solución de caucho en un área de 16 mm a lo largo del perímetro de la pieza. A continuación, se inicia el pegado a intervalos de 1 cm, moldeando la curva gradualmente. Para lograr un mejor acabado, es recomendable utilizar un estaquillo o punzón para ajustar el pegado y, posteriormente, reafirmarlo con un martillo.
             .col-lg-6
