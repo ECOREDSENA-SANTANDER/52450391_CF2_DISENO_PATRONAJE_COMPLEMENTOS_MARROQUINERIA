@@ -50,6 +50,7 @@ figcaption
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #212529
+  margin-left: 1rem
 .boton *, .boton--sm * 
   color: #fff
 .barra-avance__boton--regresar span 
@@ -151,7 +152,14 @@ figcaption
   background-position: center
   background-size: 100% 100%
   background-repeat: no-repeat
+  border-radius: 20px
+@media screen and (max-width: 767px)
+  margin-inline: -1.4rem
+  border-radius: 20px
+  background-image: url('../assets/curso/fondo.png')
 
+.izqtext
+  margin-left: 1rem
   
 .fondotarjeta2
   background-color: #EDF1EF 
@@ -183,7 +191,7 @@ figcaption
   background-position: center
   height: 460px 
 .p
-  margin-left: 1.7rem
+  margin-left: 2rem
 
 .fondo9
   background: url('../assets/curso/temas/Tema1/fondo3.png')
@@ -480,6 +488,12 @@ figcaption
   padding-right: 50px
   left: -30px
   top: 8px
+.w-card-text2
+  position: relative
+  padding-left: 50px
+  padding-right: 50px
+  left: -8px
+  top: 8px
 
 .slyder-f__btn
     width: 8%
@@ -488,11 +502,11 @@ figcaption
     justify-content: center
     cursor: pointer
 .slyder-f__btn i 
-    font-size: 2rem
-    min-width: 50px
-    max-width: 50px
-    min-height: 50px
-    max-height: 50px
+    font-size: 1.5rem
+    min-width: 40px
+    max-width: 40px
+    min-height: 40px
+    max-height: 40px
     flex: auto
     border-radius: 50%
     background-color: #0058C9

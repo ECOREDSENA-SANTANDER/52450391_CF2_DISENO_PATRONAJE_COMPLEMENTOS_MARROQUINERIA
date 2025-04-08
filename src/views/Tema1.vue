@@ -81,7 +81,7 @@
       .row.align-items-center.p-4(data-aos="fade-down").mb-2
         .col-lg-12.col-12.px-lg-5.px-1
           .tarjeta--container.row(data-aos="zoom-in-left")
-            .col-md-12.tarjeta.bg10.p-5.col-lg-6
+            .col-md-6.tarjeta.bg10.p-5.col-lg-6
               .row.align-items-end.mb-4
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/herra.svg', alt='')
@@ -90,7 +90,7 @@
                     h3.mb-0.text-white Herramientas
               p Algunas herramientas empleadas en la elaboración de moldes también se utilizan en la confección de modelos, como la cuchilla mencionada anteriormente, estas herramientas permiten trabajar los materiales con precisión y calidad.
       
-            .col-md-12.tarjeta.bg11.p-5.col-lg-6
+            .col-md-6.tarjeta.bg11.p-5.col-lg-6
               .row.align-items-end.mb-4
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/maqui.svg', alt='')

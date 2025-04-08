@@ -128,7 +128,7 @@
               h3.bg2.py-2.w-card-text.text-white Marcado e industrialización de moldes
         
         .row.justify-content-center.align-items-center.mb-2
-          .col-lg-4.mb-2.col-sm-6.col-12
+          .col-lg-4.mb-2.col-sm-6.col-10
             img(src='@/assets/curso/temas/Tema2/img02.png', alt='')
           .col-lg-8
             p El proceso de industrialización requiere el marcado preciso de cada molde para su identificación eficiente, por ello cada patrón debe incluir:
@@ -197,7 +197,7 @@
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7.col-12
             .d-flex.align-items-center.mt-3
-              h3.bg5.py-2.w-card-text Paso 1. Elaborar el molde patrón
+              h3.bg5.py-2.w-card-text2 Paso 1. Elaborar el molde patrón
         p Se corta cartulina de 51 cm x 37 cm. Ya que al largo se le debe aumentar la medida del ancho del bolso más 3 cm que se usan para trabajar la ventaja de costura.
         p En el caso del alto se agrega solo la mitad del ancho más los 3 cm de ventaja de costura. 
         .py-3
@@ -312,7 +312,7 @@
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-3
-              h3.bg5.py-2.w-card-text Paso 2. Falso interno o porta cierre
+              h3.bg5.py-2.w-card-text2 Paso 2. Falso interno o porta cierre
         p Cuando el forro va suelto es importante crear el falso interno o porta cierre, a través del molde patrón, tomando desde la línea superior (sin tener en cuenta la ventaja de costura) se toman 4 cm hacia abajo y se traza una línea que permite sacar el falso interno o porta cierre del bolso. 
         .py-4
 
@@ -393,7 +393,7 @@
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-3
-              h3.bg5.py-2.w-card-text Paso 3. Molde del forro
+              h3.bg5.py-2.w-card-text2 Paso 3. Molde del forro
         p Para sacar el #[b molde del forro] del bolso. A través del molde patrón sobre la misma línea del falso interno se le agrega en la parte superior 8 mm de ventaja de costura y de esta manera se obtiene el forro del bolso. 
         .py-3
 
@@ -489,7 +489,7 @@
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-3
-              h3.bg5.py-2.w-card-text Paso 4. Industrialización de los moldes
+              h3.bg5.py-2.w-card-text2 Paso 4. Industrialización de los moldes
         p Es el registro de los datos que se agrega a cada molde, como se expone.
         .py-4
 

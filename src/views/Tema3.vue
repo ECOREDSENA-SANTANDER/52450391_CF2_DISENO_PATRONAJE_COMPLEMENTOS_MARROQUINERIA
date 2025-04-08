@@ -8,7 +8,7 @@
       h1 Moldería en común para bolsos
 
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
-      .col-lg-5.col-sm-7
+      .col-lg-5.col-sm-7.col-10
         img(src='@/assets/curso/temas/Tema3/img01.png', alt='')
       .col-lg-7
         p Teniendo en cuenta los moldes elaborados se procede a realizar los moldes que los complementan (estos se crean según el diseño del artículo y dimensiones de los herrajes para el caso de las chapetas y de manijas o cargaderas).
@@ -55,7 +55,7 @@
           .row.justify-content-start.mb-4(data-aos="zoom-in-left")
             .col-sm-12.col-lg-5
               .d-flex.align-items-center.mt-3
-                h3.bg5.py-2.w-card-text Paso 1. Molde
+                h3.bg5.py-2.w-card-text2 Paso 1. Molde
           p Teniendo en cuenta la dimensión del herraje se multiplica por 2 y se suma 2 cm, para el caso de una manija de mano y con un herraje de 1 pulgada, se maneja la siguiente medida: 
 
           .row.gris.justify-content-center.align-items-center.p-2
@@ -84,7 +84,7 @@
           figcaption.text-negro Fuente SENA.  
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-rigth")
-      .col-lg-4.mb-2.col-sm-7
+      .col-lg-4.mb-2.col-sm-7.col-10
         img(src='@/assets/curso/temas/Tema3/img03.png', alt='')
         .py-2
       .col-lg-4
@@ -106,7 +106,7 @@
     .row.justify-content-center(data-aos="flip-up").fondot3.p-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center.mb-0
-          .col-lg-4.mb-2.col-sm-7
+          .col-lg-4.mb-2.col-sm-7.col-11
             img(src='@/assets/curso/temas/Tema3/img04.png', alt='')
           .col-lg-4
             p #[b III. Chapetas:] pieza que permite agarrar el herraje para unirlo al bolso y posteriormente colocar la manija o cargadera.
@@ -114,7 +114,7 @@
             .row.justify-content-start.mb-4(data-aos="zoom-in-left")
               .col-sm-12.col-lg-5
                 .d-flex.align-items-center.mt-3
-                  h3.bg5.py-2.w-card-text Paso 1. Molde
+                  h3.bg5.py-2.w-card-text2 Paso 1. Molde
             p Para el desarrollo de ésta es importante la dimensión del herraje, así como el diseño del artículo (chapeta redonda, cuadrada, en punta).
             p El ancho depende de las dimensiones del artículo (entre 4 y 5 cm), teniendo en cuenta la medida interna del herraje se restan 3 mm en la parte central del molde. El largo es de 14 cm.
             p Se corta cartulina de 14 cm por 4 cm y se traza la línea de simetría. 
