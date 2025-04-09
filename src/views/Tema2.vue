@@ -426,7 +426,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-8.col-12
-            p Posteriormente abre el molde del forro. 
+            p Posteriormente abra el molde del forro. 
       .row.justify-content-center.align-items-center.p-2.mb-4(data-aos="flip-up")
         .col-lg-6.col-10
           .titulo-sexto.color-acento-contenido.text-negro

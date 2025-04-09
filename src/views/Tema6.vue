@@ -180,7 +180,7 @@
                 figcaption.text-negro Fuente SENA. 
           .row(titulo="Doblado de piezas rectas")
             .col-md-6.mb-4.mb-md-0
-              p Sobre el perímetro de la pieza a un área de 16mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
+              p Sobre el perímetro de la pieza a un área de 16 mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 50. 

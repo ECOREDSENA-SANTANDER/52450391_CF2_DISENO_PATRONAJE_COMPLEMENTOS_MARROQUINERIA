@@ -24,20 +24,20 @@
             h4.mb-0 TALLAJE FEMENIMO
           tbody
             tr
-              th 4
-              th 90 cm
+              th.text-regular 4
+              th.text-regular 90 cm
             tr
-              th 6
-              td 94 cm
+              th.text-regular 6
+              th.text-regular 94 cm
             tr
-              th 8
-              th 98 cm
+              th.text-regular 8
+              th.text-regular 98 cm
             tr
-              th 10
-              th 102 cm
+              th.text-regular 10
+              th.text-regular 102 cm
             tr
-              th 12
-              th 108 cm 
+              th.text-regular 12
+              th.text-regular 108 cm 
 
 
       .col-lg-4.col-sm-7.mb-2.d-none.d-lg-block
@@ -52,24 +52,24 @@
         
           tbody
             tr
-              th 38
-              th 120 cm
+              th.text-regular 38
+              th.text-regular 120 cm
             tr
-              th 36
-              td 115 cm
+              th.text-regular 36
+              th.text-regular 115 cm
             tr
-              th 34
-              th 110 cm
+              th.text-regular 34
+              th.text-regular 110 cm
             tr
-              th 32
-              th 105 cm
+              th.text-regular 32
+              th.text-regular 105 cm
             tr
-              th 30
-              th 100 cm 
+              th.text-regular 30
+              th.text-regular 100 cm 
  
             tr
-              th 28
-              th 95 cm 
+              th.text-regular 28
+              th.text-regular 95 cm 
       .col-lg-10
         figcaption Fuente SENA
 
@@ -200,7 +200,7 @@
               p El largo del pasador se obtiene del ancho del cinturón, esta medida se duplica y se le agrega 1 cm. Y para obtener el ancho, este se trabaja con una medida estándar de 1.5 cm. 
             .titulo-sexto.color-acento-contenido
               h5 Figura 43. 
-              span  Chapeta 
+              span Largo del pasador
             figure
               img(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
       figcaption Fuente SENA.  
