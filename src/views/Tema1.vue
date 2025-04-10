@@ -109,77 +109,77 @@
               SlyderA(tipo="b").fondoblanco.p-4
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Lezna (de 4 filos)
+                    h4 Lezna (de 4 filos)
                     p Punzón de hierro o acero con punta aguda y mango de madera. Se usa manualmente para perforar cuero, permitiendo el paso de los hilos en el pespunte.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/01.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Estaquillo
+                    h4 Estaquillo
                     p Herramienta de punta redonda o roma, empleada para marcar puntos de referencia y líneas guía en la moldería. También ayuda a asentar el pegado de piezas curvas.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/02.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Mordaza
+                    h4 Mordaza
                     p Elemento de madera en forma de pinza, cuyos brazos sujetan el cuero para perforarlo o coserlo.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/03.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Agujas
+                    h4 Agujas
                     p Esenciales para la costura manual y a máquina de cuero o textiles. Las agujas guarnicioneras se usan en costura manual, mientras que las de máquina varían según el tipo de costura y el modelo de la máquina.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/04.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Compás de puntas secas
+                    h4 Compás de puntas secas
                     p Sirve para realizar trazos exactos cuando hay curvas. Es útil para trasladar medidas o puntos y para marcar las ventajas de costuras.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/05.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Destornillador
+                    h4 Destornillador
                     p Utilizados para realizar el cambio de agujas y para efectuar ajustes ocasionales a las máquinas. Se necesitan de diferentes puntas y tamaños.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/06.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Sacabocados o fistos
+                    h4 Sacabocados o fistos
                     p Instrumento de hierro con boca hueca y cortes afilados, que sirve para taladrar. Los hay en diferentes figuras: trébol, hojas, círculos, corazón, etc.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/07.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Caja bobina
+                    h4 Caja bobina
                     p Herramienta usada en la parte inferior de la máquina de coser, que recibe y hace que el carretel con hilo entrelace la puntada.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/08.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Matacantos
+                    h4 Matacantos
                     p Es una herramienta de corte que permite dar un mejor acabado. Se utiliza para cortar en bisel los bordes de las piezas de cuero.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/09.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Martillo
+                    h4 Martillo
                     p Herramienta utilizada para afirmar el pegado y aplanado de piezas mediante golpes suaves y constantes. También se emplea para golpear sacabocados, fijar remaches y broches; puede tener cabeza metálica o de fibra.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/10.png', alt='')
                 
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    h5 Fibra
+                    h4 Fibra
                     p Fibra de polipropileno, usada para perforar con los sacabocados. El empleo de esta no deja dañar el corte de estos.
                   .col-md-5
                     img(src='@/assets/curso/temas/Tema1/11.png', alt='')
