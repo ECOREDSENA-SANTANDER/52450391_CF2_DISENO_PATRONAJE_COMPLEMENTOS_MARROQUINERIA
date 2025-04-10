@@ -8,7 +8,7 @@
       h1 Manejo de la información a lo largo de la cadena de mando
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="down")
-      .col-lg-5
+      .col-lg-5.col-md-9
         img(src='@/assets/curso/temas/Tema5/img01.png', alt='')
       .col-lg-7
         p En el proceso de elaboración de artículos, la gestión eficiente de la información desempeña un papel fundamental en la calidad del producto final. Para lograr este objetivo, se emplean fichas técnicas, herramientas esenciales que permiten recopilar, estructurar y sistematizar la información técnica de los productos. Estas fichas no solo facilitan el desarrollo adecuado de los artículos, sino que también garantizan el cumplimiento de los estándares de calidad y las especificaciones requeridas en cada fase del proceso.
@@ -17,7 +17,7 @@
       .col-lg-5.bg4.p-3.mb-3
         br
         p.px-2 Las fichas técnicas del producto, presentadas durante el proceso de formación, contienen detalles específicos sobre los requerimientos del proceso productivo, proporcionando una guía clara y estructurada para el personal de producción en cada etapa del desarrollo. En ellas se incluyen aspectos clave como los materiales necesarios, las especificaciones técnicas y los procedimientos de fabricación. Esta información permite asegurar la coherencia, precisión y eficiencia en la producción.
-      .col-lg-3.col-8.mb-3
+      .col-lg-3.col-8.mb-3.col-md-5
         img(src='@/assets/curso/temas/Tema5/img02.png', alt='')
       .col-lg-4
         .row

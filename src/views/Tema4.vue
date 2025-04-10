@@ -180,7 +180,7 @@
               h5 Figura 41. 
               span  Puntera  
             figure
-              img(src='@/assets/curso/temas/Tema4/figura41.svg', alt='La figura representa la puntera de un cinturón, detallando sus dimensiones y la distribución de los orificios para el ajuste. Se indica un rango de longitud entre 13 y 15 cm desde el extremo redondeado hasta el primer orificio, con una separación de 2.5 cm entre cada perforación. El diseño facilita la regulación del tamaño del cinturón.')
+              img.col-sm-10(src='@/assets/curso/temas/Tema4/figura41.svg', alt='La figura representa la puntera de un cinturón, detallando sus dimensiones y la distribución de los orificios para el ajuste. Se indica un rango de longitud entre 13 y 15 cm desde el extremo redondeado hasta el primer orificio, con una separación de 2.5 cm entre cada perforación. El diseño facilita la regulación del tamaño del cinturón.')
       
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
@@ -191,7 +191,7 @@
               h5 Figura 42. 
               span  Chapeta 
             figure
-              img(src='@/assets/curso/temas/Tema4/figura42.svg', alt='La imagen representa una chapeta con forma alargada y extremos curvos o biselados. Su dimensión de ancho es de 14 cm, según la anotación en azul. La estructura de la pieza sugiere que es utilizada como refuerzo, adorno o elemento funcional en un proceso de confección. ')
+              img.col-sm-10(src='@/assets/curso/temas/Tema4/figura42.svg', alt='La imagen representa una chapeta con forma alargada y extremos curvos o biselados. Su dimensión de ancho es de 14 cm, según la anotación en azul. La estructura de la pieza sugiere que es utilizada como refuerzo, adorno o elemento funcional en un proceso de confección. ')
       
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
@@ -202,7 +202,7 @@
               h5 Figura 43. 
               span Largo del pasador
             figure
-              img(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
+              img.col-sm-10(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
       figcaption Fuente SENA.  
     
     

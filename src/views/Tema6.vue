@@ -12,7 +12,7 @@
       .col-lg-5.bg3.p-3.mb-4
         br
         p.px-2 Para la confección de un producto, es fundamental llevar a cabo el proceso de corte y preparación del material, ya que en esta etapa se ajustan y acondicionan las piezas necesarias. Durante este proceso, se pueden realizar acciones como rebajar el material, entintar bordes, doblar y tinturar piezas, dependiendo del tipo de material con el que se trabaja. En el caso del cuero, es esencial conocer sus partes.
-      .col-lg-3.col-8.mb-4
+      .col-lg-3.col-8.mb-4.col-md-6
         img(src='@/assets/curso/temas/Tema6/img01.png', alt='')
       .col-lg-4
         .row.justify-content-start.mb-2(data-aos="flip-up")  
@@ -92,7 +92,7 @@
             .py-2
             figcaption Fuente SENA.
             .py-2 
-      .col-lg-4.col-8
+      .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/temas/Tema6/img03.png', alt='')
 
 
@@ -160,7 +160,7 @@
     p.mb-5 Después del desbastado, las piezas deben prepararse antes de la costura. Para facilitar la confección del producto, es necesario doblarlas previamente. En los diseños pueden presentarse diversas formas, como curvas entrantes, curvas salientes y piezas rectas, entre otras.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-8.mb-4.col-sm-6
+      .col-lg-3.col-8.mb-4.col-sm-5
         img(src='@/assets/curso/temas/Tema6/img04.png', alt='')
       .col-lg-9
         AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

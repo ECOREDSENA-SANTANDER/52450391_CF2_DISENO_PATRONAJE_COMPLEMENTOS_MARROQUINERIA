@@ -86,7 +86,7 @@
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/herra.svg', alt='')
                 .col-5.col-9
-                  .bg-color.w-fit.p-2.px-4
+                  .bg-color.w-fit.p-1.px-4
                     h3.mb-0.text-white Herramientas
               p Algunas herramientas empleadas en la elaboración de moldes también se utilizan en la confección de modelos, como la cuchilla mencionada anteriormente, estas herramientas permiten trabajar los materiales con precisión y calidad.
       
@@ -95,12 +95,12 @@
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/maqui.svg', alt='')
                 .col-9
-                  .bg-color.w-fit.p-2.px-4
+                  .bg-color.w-fit.p-1.px-4
                     h3.mb-0.text-white Maquinaria
               p El uso de maquinaria optimiza los procesos de confección, mejorando la eficiencia y la calidad del producto final; entre las más utilizadas se encuentran las máquinas de coser industriales, prensas de corte y equipos de grabado, entre otras. La combinación de herramientas manuales y maquinaria especializada es clave para garantizar acabados precisos y productos de alta calidad en la marroquinería.
              
       .row.justify-content-center.align-items-center(data-aos="fade-left").mb-0
-        .col-lg-3.col-8.col-sm-6
+        .col-lg-3.col-8.col-sm-5
           img(src='@/assets/curso/temas/Tema1/img02.png', alt='')
         .col-lg-9
           .row.justify-content-center.align-items-center.mb-5.fondoslyder.p-4
