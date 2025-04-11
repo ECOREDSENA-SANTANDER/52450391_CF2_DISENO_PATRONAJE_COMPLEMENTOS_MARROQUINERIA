@@ -10,7 +10,7 @@
     p La moldería es el proceso de diseño y desarrollo de patrones para la fabricación de productos, asegurando precisión en trazos y medidas. En marroquinería, la exactitud de los moldes es crucial para la fidelidad al diseño, pudiendo realizarse de manera digital o manual; en este espacio trabajaremos la moldería manual.
 
     .row.justify-content-center(data-aos="flip-up").fondot3.px-4
-      .col-lg-12.col-12.px-lg-5.px-3
+      .col-lg-12.col-12.px-lg-5.px-3.mb-lg-5
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-11.col-lg-7.col-12
             .d-flex.align-items-center.mt-4
@@ -19,9 +19,8 @@
         
         
         .row.justify-content-center.align-items-center.mb-2
-          .col-lg-4.mb-2.col-sm-6.col-8
+          .col-lg-4.col-sm-6.col-8.mb-4
             img(src='@/assets/curso/temas/Tema2/img01.png', alt='')
-          .py-2
           .col-lg-8.col-12
             p El bolso se compone de diversas piezas, visibles o internas según el diseño:
             ul.lista-ul
@@ -80,12 +79,12 @@
             .col-lg-12.col-sm-12
               p.p #[b Doblado:] proceso en el que el material se pliega sobre sí mismo o sobre un refuerzo rígido para dar forma y estructura al producto.
               ul.lista-ul.p
-                li.mb-0
+                li.mb-0.d-flex
                   i.fas.fa-check-circle
-                  |#[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
-                li.mb-0
+                  p #[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
+                li.mb-0.d-flex
                   i.fas.fa-check-circle
-                  |#[b Textil/Sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
+                  p #[b Textil/Sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
       
       .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
@@ -158,9 +157,9 @@
                   .row.align-items-center
                     .col-lg-2.d-none.d-lg-block
                       img.imgtamano(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-                    .col-lg-10
+                    .col-lg-10.nota
                       br
-                      h5.mb-0 Nota. 
+                      h5.mb-2 Nota. 
                       p La metodología de industrialización puede variar según los procesos internos de cada empresa.
            
     
@@ -285,28 +284,27 @@
 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
-      .col-lg-6 
-        .tarjeta.color2.p-2
+      .col-lg-6.mb-3 
+        .tarjeta.color2.px-3
           .row.align-items-center
             .col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-            .col-lg-10
+            .col-lg-10.nota2
               br
-              h5.mb-0 Nota 1. 
+              h5.mb-2 Nota 1. 
               p Los bolsos se pueden trabajar con el forro adherido al cuerpo donde el mismo molde patrón sirve para sacar dicha pieza, o se puede sacar suelto y para ello es necesario sacar el molde del falso interno o porta cierre y por ende del forro.
-        .py-1
+        
+      .col-lg-6.mb-3
+        .tarjeta.color2.px-3
           br
-      .col-lg-6
-        .tarjeta.color2.p-2
           .row.align-items-center
             .col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-            .col-lg-10
+            .col-lg-10.nota2
               br
-              h5.mb-0 Nota 2. 
+              h5.mb-2 Nota 2. 
               p Es importante tener claro que a partir de este momento el resto de los moldes se realizan calcando sobre el molde patrón.
-        .py-3
-
+       
     .row.justify-content-center.mb-5(data-aos="zoom-in-left").fondot03
       .col-lg-8.col-11
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")

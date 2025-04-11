@@ -34,10 +34,11 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-8.bg44.p-2
         .row.align-items-center
-          .col-lg-1.d-none.d-lg-block
-            img(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-          .col-lg-10
-            h5 Nota. 
+          .col-lg-2.d-none.d-lg-block
+            img.nota31(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
+          .col-lg-10.nota3
+            br
+            h5.mb-1 Nota. 
             p Para crear el molde de la cargadera o manija se debe tener la dimensión del herraje a utilizar, ya que de éste depende el ancho para sacar el molde y el largo depende del diseño del bolso.
 
 
@@ -260,7 +261,7 @@
           figcaption.text-negro Fuente SENA.
 
 
-    .row.justify-content-center.mb-2(data-aos="flip-up")
+    .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-12.col-12.col-md-12
         .tarjeta.fondolink2.mb-0.p-2
           .row.justify-content-center.align-items-center.py-4
@@ -325,7 +326,9 @@
                     i.fas.fa-globe
                   .py-3
 
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        img(src="@/assets/curso/temas/Tema3/linea2.svg")
 
 
 

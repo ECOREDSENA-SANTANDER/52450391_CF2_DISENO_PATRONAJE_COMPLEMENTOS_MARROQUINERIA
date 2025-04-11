@@ -77,9 +77,10 @@
       .col-lg-7.tarjeta.color.p-2
         .row.align-items-center
           .col-lg-2.d-none.d-lg-block
-            img.imgtamano(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-          .col-lg-10
-            h5 Nota. 
+            img.nota31(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
+          .col-lg-10.nota3
+            br
+            h5.mb-1 Nota. 
             p Estas dimensiones pueden cambiar, pues cada empresa maneja su propio tallaje. 
 
 
@@ -98,45 +99,45 @@
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-6.col-lg-6.col-6
+            .col-sm-6.col-lg-6.col-7
               img(src='@/assets/curso/temas/Tema4/ico1.svg')
-          .row.justify-content-center.mb-3.px-2
+          .row.justify-content-center.align-items-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white a) Puntera: 
-            .col-lg-12.col-sm-8
+              h5.mb-0.text-center.bg-color.text-white a) Puntera: 
+            .col-lg-12.col-sm-11
               p.text-center define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
       
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-6.col-lg-6.col-6
+            .col-sm-6.col-lg-6.col-7
               img(src='@/assets/curso/temas/Tema4/ico2.svg')
-          .row.justify-content-center.mb-3.px-2
+          .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white b) Pasador: 
-            .col-lg-12.col-sm-8
+              h5.mb-0.text-center.bg-color.text-white b) Pasador: 
+            .col-lg-12.col-sm-11
               p.text-center pieza que permite sujetar la puntera después de atravesar la hebilla.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-6.col-lg-6.col-6
+            .col-sm-6.col-lg-6.col-7
               img(src='@/assets/curso/temas/Tema4/ico3.svg')
-          .row.justify-content-center.mb-3.px-2
+          .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white c) Chapeta:  
-            .col-lg-12.col-sm-8
+              h5.mb-0.text-center.bg-color.text-white c) Chapeta:  
+            .col-lg-12.col-sm-11
               p.text-center pieza que sostiene la hebilla para armar el cinturón.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
           .row.justify-content-center.align-items-center.mb-3
-            .col-sm-6.col-lg-6.col-6
+            .col-sm-6.col-lg-6.col-7
               img(src='@/assets/curso/temas/Tema4/ico4.svg')
-          .row.justify-content-center.mb-3.px-2
+          .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.text-center.bg-color.text-white d) Hebilla: 
-            .col-lg-12.col-sm-8
+              h5.mb-0.text-center.bg-color.text-white d) Hebilla: 
+            .col-lg-12.col-sm-11
               p.text-center es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
            
      
@@ -208,13 +209,14 @@
     
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-7.tarjeta.color.p-2
+      .col-lg-7.tarjeta.color.p-3
         .row.align-items-center
           .col-lg-2.d-none.d-lg-block
-            img.imgtamano(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
-          .col-lg-10
-            h5 Nota. 
+            img.nota31(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
+          .col-lg-10.nota
+            h5.mb-1 Nota. 
             p Algunos cinturones presentan forro y refuerzo y éste último se realiza en salpa. 
+
 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")

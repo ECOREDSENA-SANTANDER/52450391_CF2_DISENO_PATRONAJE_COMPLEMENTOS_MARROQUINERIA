@@ -86,8 +86,8 @@
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/herra.svg', alt='')
                 .col-5.col-9
-                  .bg-color.w-fit.p-1.px-4
-                    h3.mb-0.text-white Herramientas
+                  .bg-color.w-fit.px-4
+                    h3.text-white Herramientas
               p Algunas herramientas empleadas en la elaboración de moldes también se utilizan en la confección de modelos, como la cuchilla mencionada anteriormente, estas herramientas permiten trabajar los materiales con precisión y calidad.
       
             .col-md-6.tarjeta.bg11.p-5.col-lg-6
@@ -95,8 +95,8 @@
                 .col-3
                   img(src='@/assets/curso/temas/Tema1/maqui.svg', alt='')
                 .col-9
-                  .bg-color.w-fit.p-1.px-4
-                    h3.mb-0.text-white Maquinaria
+                  .bg-color.w-fit.px-4
+                    h3.text-white Maquinaria
               p El uso de maquinaria optimiza los procesos de confección, mejorando la eficiencia y la calidad del producto final; entre las más utilizadas se encuentran las máquinas de coser industriales, prensas de corte y equipos de grabado, entre otras. La combinación de herramientas manuales y maquinaria especializada es clave para garantizar acabados precisos y productos de alta calidad en la marroquinería.
              
       .row.justify-content-center.align-items-center(data-aos="fade-left").mb-0
@@ -193,7 +193,7 @@
         .col-lg-12
           AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azull")
             .row.justify-content-center.align-items-start(titulo="Máquina plana")
-              .col-md-7
+              .col-md-6
                 p Para el trabajo en marroquinería, es fundamental utilizar máquinas industriales, ya que permiten realizar costuras rectas con precisión y resistencia. Dentro de esta categoría, existen máquinas de arrastre simple y doble, cada una adecuada para diferentes necesidades de confección.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -204,7 +204,7 @@
             
             
             .row.justify-content-center.align-items-start(titulo="Máquina de poste")
-              .col-md-7
+              .col-md-6
                 p Diseñada para el trabajo en calzado y marroquinería, útil para coser piezas pequeñas y apliques.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -214,7 +214,7 @@
                   img(src='@/assets/curso/temas/Tema1/figura2.png', alt='La imagen presenta una máquina de coser de poste, caracterizada por su diseño vertical que facilita la costura en materiales voluminosos o tridimensionales. La estructura incluye un cabezal elevado, una base sólida y una mesa de trabajo adaptada para su instalación. Su mecanismo permite una mayor maniobrabilidad en piezas de difícil acceso, siendo común en la industria del calzado y marroquinería. ')
             
             .row.justify-content-center.align-items-start(titulo="Máquina ribeteadora ")
-              .col-md-7
+              .col-md-6
                 p Útil para pegar ribetes internos y externos y para realizar costuras perdidas y dar terminación al producto.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -224,7 +224,7 @@
                   img(src='@/assets/curso/temas/Tema1/figura3.png', alt='La imagen presenta una máquina ribeteadora, diseñada para la costura de bordes y acabados en materiales textiles, cuero y sintéticos. Su estructura robusta incluye un cabezal con mecanismo de aguja, una base resistente y una mesa de trabajo que facilita la estabilidad durante el proceso de costura. Su diseño permite la aplicación de ribetes y refuerzos en prendas y productos de marroquinería. ')
             
             .row.justify-content-center.align-items-start(titulo="Máquina desbastadora  de cuero")
-              .col-md-7
+              .col-md-6
                 p Útil para elaborar productos en cuero, es importante adelgazar o rebajar el perímetro de las piezas de cuero (rebajar el calibre o grosor de diferentes zonas del material) con el fin de doblarlas, montar pieza sobre pieza, realizar costuras perdidas, entre otros. De esta manera obtener un producto con un buen acabado.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -234,7 +234,7 @@
                   img(src='@/assets/curso/temas/Tema1/figura4.png', alt='La imagen presenta una máquina desbastadora de cuero, utilizada para adelgazar o rebajar el grosor del material en procesos de marroquinería y fabricación de calzado. Su estructura cuenta con un cabezal de desbaste, una base resistente y una mesa de trabajo que proporciona estabilidad durante su operación. Su diseño permite un control preciso del grosor del cuero, facilitando acabados uniformes en las piezas procesadas.')
             
             .row.justify-content-center.align-items-start(titulo="Máquina fileteadora")
-              .col-md-7
+              .col-md-6
                 p Se utiliza especialmente para el trabajo con textiles dando buen acabado a los artículos, ya que cuando se trabaja con driles, satines, entre otros, estos se deshilan fácilmente.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -244,7 +244,7 @@
                   img(src='@/assets/curso/temas/Tema1/figura5.png', alt='La imagen presenta una máquina fileteadora, diseñada para realizar costuras overlock en telas, evitando que los bordes se deshilachen. Su estructura compacta incluye un sistema de múltiples hilos, un mecanismo de cuchillas para recorte de excedentes y un motor integrado que permite un funcionamiento preciso y rápido. Su uso es común en la confección textil para acabados profesionales en prendas y otros productos de costura. ')
             
             .row.justify-content-center.align-items-start(titulo="Máquina troqueladora ")
-              .col-md-7
+              .col-md-6
                 p Se utiliza para realizar los cortes de las diferentes piezas; el troquel es la herramienta que presenta las formas para hacer los cortes.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
@@ -254,7 +254,7 @@
                   img(src='@/assets/curso/temas/Tema1/figura6.png', alt='La imagen presenta una máquina troqueladora, utilizada para cortar materiales como cuero, cartón y tela mediante el uso de moldes con formas definidas. Su estructura robusta incluye una base resistente, un sistema de presión y una superficie de trabajo amplia que facilita la manipulación de materiales. Su diseño permite la producción de piezas con cortes precisos y uniformes en la industria textil, marroquinera y de calzado. ')
             
             .row.justify-content-center.align-items-start(titulo="Máquina repujadora ")
-              .col-md-7
+              .col-md-6
                 p Útil para estampar diferentes diseños en las distintas piezas de cuero, con ayuda de presión y al calor.
               .col-md-4
                 .titulo-sexto.color-acento-contenido

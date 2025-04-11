@@ -24,35 +24,29 @@
     .row.justify-content-center.mb-3(data-aos="flip-up")  
       .col-lg-12
         p Las secciones más relevantes del cuero para el proceso de corte incluyen:
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-sm-6.col-10
-        .tarjeta.fondoslyder2.p-4
-          .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-5
-              img(src='@/assets/curso/temas/Tema6/ico2.svg')
-          .row.justify-content-center.mb-3.px-2
-            .col-lg-11.col-sm-8
-              p.text-center #[b Crupón:] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
+              
+    
+    .row.justify-content-center(data-aos="flip-up")  
+      .col-lg-4.col-md-6.mb-4
+        .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
+          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          .p-2.mb-4
+            p.text-center.izqtext  #[b Crupón:] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
       
-      .col-lg-4.col-sm-6.col-10
-        .tarjeta.fondoslyder2.p-4
-          .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-5
-              img(src='@/assets/curso/temas/Tema6/ico2.svg')
-          .row.justify-content-center.mb-3.px-2
-            .col-lg-11.col-sm-8
-              p.text-center #[b Cuello:] se emplea para extraer piezas internas del diseño.
+      .col-lg-4.col-md-6.mb-4
+        .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
+          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          .p-2.mb-4
+            p.text-center.mb-0.p-1 #[b Cuello:] se emplea para extraer piezas internas del diseño.
+   
+      
+      .col-lg-4.col-md-6.mb-4
+        .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
+          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          .p-2.mb-4
+            p.text-center.izqtext #[b Falda:] se destina al corte de piezas que requieren refuerzo con materiales como salpa, odena o polex.
+         
 
-      .col-lg-4.col-sm-6.col-10
-        .tarjeta.fondoslyder2.p-4
-          .row.justify-content-center.align-items-center.mb-3
-            .col-sm-5.col-lg-4.col-5
-              img(src='@/assets/curso/temas/Tema6/ico2.svg')
-          .row.justify-content-center.mb-3.px-2
-            .col-lg-11.col-sm-8
-              p.text-center #[b Falda:] se destina al corte de piezas que requieren refuerzo con materiales como salpa, odena o polex.
-  
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8
           .titulo-sexto.color-acento-contenido
@@ -65,7 +59,7 @@
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.bg44.p-4
-        .row.align-items-center
+        .row
           .col-lg-1.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
           .col-lg-10
@@ -99,7 +93,7 @@
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.bg44.p-4
-        .row.align-items-center
+        .row
           .col-lg-1.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema4/img002.svg', alt='')
           .col-lg-10
@@ -109,11 +103,13 @@
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-acento-botones.text-white
-          .tarjeta.color-acento-botones.bg55.p-4(titulo="Proceso de Corte")
-            .row.justify-content-center.align-items-center.mb-5
+          .tarjeta.color-acento-botones.bg555.p-4(titulo="Proceso de Corte")
+            .row.justify-content-center.align-items-center.mb-2
               .col-lg-7
+                h4.text-negro Proceso de Corte
                 p.text-negro.mb-0 Una vez elaborados los moldes, el corte se puede realizar de forma mecánica, utilizando troqueladoras, cortadoras de rayo láser o de chorro de agua, o de manera manual con cuchilla, método que se abordará en este curso. Para obtener un corte preciso, es esencial contar con un banco de trabajo adecuado y una piedra de afilar para mantener el filo de la cuchilla en óptimas condiciones.
                 p.text-negro Para el corte de materia prima, especialmente cuero, es fundamental considerar su estiramiento. Para las piezas, se emplea cuchilla en cuero y sintéticos, mientras que en textiles se utilizan tijeras. En el caso del cuero, sintéticos o cartón, el molde se coloca sobre el material antes de realizar el corte, asegurando precisión en el proceso.
+              
               .col-lg-5.col-md-10
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 46. 
@@ -122,10 +118,14 @@
                   img(src='@/assets/curso/temas/Tema6/figura46.png', alt='La figura muestra una mesa de corte utilizada en procesos de manufactura. Su estructura metálica y superficie resistente proporcionan un espacio adecuado para realizar cortes con precisión. Debajo de la mesa, se encuentran herramientas y equipos complementarios, optimizando el área de trabajo para mayor eficiencia en el proceso de corte. ')
                   .py-2
                   figcaption.text-negro Fuente SENA.  
-
-          .tarjeta.color-acento-botones.bg55.p-4(titulo="Desbastado de piezas")
-            .row.justify-content-center.align-items-center.mb-5
+              .col-lg-12
+                img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
+          
+          
+          .tarjeta.color-acento-botones.bg555.p-4(titulo="Desbastado de piezas")
+            .row.justify-content-center.mb-2
               .col-lg-7
+                h4.text-negro Desbastado de piezas
                 p.mb-0.text-negro El desbastado es el proceso de reducción del calibre o grosor en los bordes de las piezas, realizado según la función del material. Este procedimiento puede efectuarse de forma manual o con una máquina desbastadora. Su aplicación facilita el ensamblaje del producto al evitar abultamientos, permitiendo costuras más limpias y un mejor acabado estético. Además, es una técnica clave en la elaboración de vivos y ribetes.
               .col-lg-5.col-md-10
                 br
@@ -135,11 +135,13 @@
                 figure
                   img(src='@/assets/curso/temas/Tema6/figura47.png', alt='La figura presenta piezas de material con el proceso de desbastado aplicado en sus bordes. Se aprecia la reducción del grosor en ciertas áreas, lo que facilita el ensamblaje y mejora el acabado final del producto. Esta técnica permite obtener un ajuste preciso en las costuras y optimizar la apariencia del material trabajado. ')
                   .py-2
-                  figcaption.text-negro Fuente SENA.  
-          
-          .tarjeta.color-acento-botones.bg55.p-4(titulo="Entintado de bordes")
-           .row.justify-content-center.align-items-center.mb-5
+                  figcaption.mb-2.text-negro Fuente SENA.  
+              .col-lg-12
+                img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
+          .tarjeta.color-acento-botones.bg555.p-4(titulo="Entintado de bordes")
+           .row.justify-content-center.mb-3
               .col-lg-7
+                h4.text-negro Entintado de bordes
                 p.mb-0.text-negro Es un proceso que se realiza cuando hay piezas que quedan al corte al momento de ensamblarlas. Para ello es importante revisar qué piezas necesitan entintar sus cantos o bordes para aplicar tinta marroquinera a éstos. Esta operación también se puede hacer con un pincel.
               .col-lg-5.col-md-10
                 br
@@ -149,8 +151,9 @@
                 figure
                   img(src='@/assets/curso/temas/Tema6/figura48.png', alt='La imagen representa un proceso de entintado de bordes, donde una persona aplica color a la orilla de una pieza de material, posiblemente cuero o similar. Se utiliza una herramienta manual con un rodillo para distribuir la tinta de manera uniforme. La base de apoyo presenta rastros de pigmento, lo que indica su uso frecuente en este tipo de acabado. ')
                   .py-2
-                  figcaption.text-negro Fuente SENA.  
-       
+                  figcaption.mb-3.text-negro Fuente SENA.  
+              .col-lg-12
+                img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center.mt-4
@@ -163,14 +166,14 @@
       .col-lg-3.col-8.mb-4.col-sm-5
         img(src='@/assets/curso/temas/Tema6/img04.png', alt='')
       .col-lg-9
-        AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Doblado de piezas con curva entrante")
-            .col-md-12.mb-4.mb-md-0
-              p Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.
-          .row(titulo="Doblado de piezas con curva saliente")
-            .col-md-6.mb-4.mb-md-0
-              p En este caso, se aplica solución de caucho en un área de 16 mm a lo largo del perímetro de la pieza. A continuación, se inicia el pegado a intervalos de 1 cm, moldeando la curva gradualmente. Para lograr un mejor acabado, es recomendable utilizar un estaquillo o punzón para ajustar el pegado y, posteriormente, reafirmarlo con un martillo.
-            .col-lg-6
+        AcordionA.mb-1(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row.justify-content-center(titulo="Doblado de piezas con curva entrante")
+            .col-md-12.mb-4.mb-md-0.col-lg-11
+              p.espacioacordion Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.
+          .row.justify-content-center(titulo="Doblado de piezas con curva saliente")
+            .col-md-6.mb-4.mb-md-0.col-lg-6
+              p.espacioacordion En este caso, se aplica solución de caucho en un área de 16 mm a lo largo del perímetro de la pieza. A continuación, se inicia el pegado a intervalos de 1 cm, moldeando la curva gradualmente. Para lograr un mejor acabado, es recomendable utilizar un estaquillo o punzón para ajustar el pegado y, posteriormente, reafirmarlo con un martillo.
+            .col-lg-5
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 49. 
                 | Doblado curva saliente 
@@ -178,10 +181,10 @@
                 img(src='@/assets/curso/temas/Tema6/figura49.png', alt='La figura muestra una mesa de corte utilizada en procesos de manufactura. Su estructura metálica y superficie resistente proporcionan un espacio adecuado para realizar cortes con precisión. Debajo de la mesa, se encuentran herramientas y equipos complementarios, optimizando el área de trabajo para mayor eficiencia en el proceso de corte. ')
                 .py-2
                 figcaption.text-negro Fuente SENA. 
-          .row(titulo="Doblado de piezas rectas")
-            .col-md-6.mb-4.mb-md-0
-              p Sobre el perímetro de la pieza a un área de 16 mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
-            .col-lg-6
+          .row.justify-content-center(titulo="Doblado de piezas rectas")
+            .col-md-6.mb-4.mb-md-0.col-lg-6
+              p.espacioacordion Sobre el perímetro de la pieza a un área de 16 mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
+            .col-lg-5
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 50. 
                 | Doblado de pieza recta  
@@ -195,9 +198,9 @@
         .row.align-items-center
           .col-lg-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/Tema4/img002.svg', alt='').p-4
-          .col-lg-10
-            h5 Nota. 
-            p Teniendo previamente preparadas cada una de las piezas se pasa a la confección y armado del producto.
+          .col-lg-10.nota
+            h5.mb-0 Nota. 
+            p.mb-0 Teniendo previamente preparadas cada una de las piezas se pasa a la confección y armado del producto.
     
     .row.align-items-center
       .col-lg-12
