@@ -194,7 +194,7 @@
           AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azull")
             .row.justify-content-center.align-items-start(titulo="Máquina plana")
               .col-md-6
-                p Para el trabajo en marroquinería, es fundamental utilizar máquinas industriales, ya que permiten realizar costuras rectas con precisión y resistencia. Dentro de esta categoría, existen máquinas de arrastre simple y doble, cada una adecuada para diferentes necesidades de confección.
+                p.espacioacordion2 Para el trabajo en marroquinería, es fundamental utilizar máquinas industriales, ya que permiten realizar costuras rectas con precisión y resistencia. Dentro de esta categoría, existen máquinas de arrastre simple y doble, cada una adecuada para diferentes necesidades de confección.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 1. 
@@ -205,7 +205,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina de poste")
               .col-md-6
-                p Diseñada para el trabajo en calzado y marroquinería, útil para coser piezas pequeñas y apliques.
+                p.espacioacordion2 Diseñada para el trabajo en calzado y marroquinería, útil para coser piezas pequeñas y apliques.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 2.
@@ -215,7 +215,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina ribeteadora ")
               .col-md-6
-                p Útil para pegar ribetes internos y externos y para realizar costuras perdidas y dar terminación al producto.
+                p.espacioacordion2 Útil para pegar ribetes internos y externos y para realizar costuras perdidas y dar terminación al producto.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 3. 
@@ -225,7 +225,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina desbastadora  de cuero")
               .col-md-6
-                p Útil para elaborar productos en cuero, es importante adelgazar o rebajar el perímetro de las piezas de cuero (rebajar el calibre o grosor de diferentes zonas del material) con el fin de doblarlas, montar pieza sobre pieza, realizar costuras perdidas, entre otros. De esta manera obtener un producto con un buen acabado.
+                p.espacioacordion2 Útil para elaborar productos en cuero, es importante adelgazar o rebajar el perímetro de las piezas de cuero (rebajar el calibre o grosor de diferentes zonas del material) con el fin de doblarlas, montar pieza sobre pieza, realizar costuras perdidas, entre otros. De esta manera obtener un producto con un buen acabado.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 4.
@@ -235,7 +235,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina fileteadora")
               .col-md-6
-                p Se utiliza especialmente para el trabajo con textiles dando buen acabado a los artículos, ya que cuando se trabaja con driles, satines, entre otros, estos se deshilan fácilmente.
+                p.espacioacordion2 Se utiliza especialmente para el trabajo con textiles dando buen acabado a los artículos, ya que cuando se trabaja con driles, satines, entre otros, estos se deshilan fácilmente.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 5. 
@@ -245,7 +245,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina troqueladora ")
               .col-md-6
-                p Se utiliza para realizar los cortes de las diferentes piezas; el troquel es la herramienta que presenta las formas para hacer los cortes.
+                p.espacioacordion2 Se utiliza para realizar los cortes de las diferentes piezas; el troquel es la herramienta que presenta las formas para hacer los cortes.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 6. 
@@ -255,7 +255,7 @@
             
             .row.justify-content-center.align-items-start(titulo="Máquina repujadora ")
               .col-md-6
-                p Útil para estampar diferentes diseños en las distintas piezas de cuero, con ayuda de presión y al calor.
+                p.espacioacordion2 Útil para estampar diferentes diseños en las distintas piezas de cuero, con ayuda de presión y al calor.
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 7. 

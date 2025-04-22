@@ -171,9 +171,9 @@
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p.espacioacordion Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.
           .row.justify-content-center(titulo="Doblado de piezas con curva saliente")
-            .col-md-6.mb-4.mb-md-0.col-lg-6
+            .col-md-12.mb-4.mb-md-0.col-lg-7
               p.espacioacordion En este caso, se aplica solución de caucho en un área de 16 mm a lo largo del perímetro de la pieza. A continuación, se inicia el pegado a intervalos de 1 cm, moldeando la curva gradualmente. Para lograr un mejor acabado, es recomendable utilizar un estaquillo o punzón para ajustar el pegado y, posteriormente, reafirmarlo con un martillo.
-            .col-lg-5
+            .col-lg-4.col-md-8
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 49. 
                 | Doblado curva saliente 
@@ -182,9 +182,9 @@
                 .py-2
                 figcaption.text-negro Fuente SENA. 
           .row.justify-content-center(titulo="Doblado de piezas rectas")
-            .col-md-6.mb-4.mb-md-0.col-lg-6
+            .col-md-12.mb-4.mb-md-0.col-lg-6
               p.espacioacordion Sobre el perímetro de la pieza a un área de 16 mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
-            .col-lg-5
+            .col-lg-5.col-md-8
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 50. 
                 | Doblado de pieza recta  

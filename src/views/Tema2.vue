@@ -121,7 +121,7 @@
     .row.justify-content-center(data-aos="flip-up").fondot3.px-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-          .col-sm-12.col-lg-7.col-12
+          .col-sm-12.col-lg-12.col-12
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
               h3.bg2.py-2.w-card-text.text-white Marcado e industrialización de moldes
@@ -166,7 +166,7 @@
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-          .col-sm-12.col-lg-7.col-12
+          .col-sm-12.col-lg-12.col-12
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
               h3.bg2.py-2.w-card-text.text-white Tipologías de moldería en bolsos
