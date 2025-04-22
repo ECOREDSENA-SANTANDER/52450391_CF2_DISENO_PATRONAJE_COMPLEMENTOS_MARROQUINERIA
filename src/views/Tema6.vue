@@ -29,20 +29,20 @@
     .row.justify-content-center(data-aos="flip-up")  
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
           .p-2.mb-4
             p.text-center.izqtext  #[b Crupón:] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
       
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
           .p-2.mb-4
             p.text-center.mb-0.p-1 #[b Cuello:] se emplea para extraer piezas internas del diseño.
    
       
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
           .p-2.mb-4
             p.text-center.izqtext #[b Falda:] se destina al corte de piezas que requieren refuerzo con materiales como salpa, odena o polex.
          
