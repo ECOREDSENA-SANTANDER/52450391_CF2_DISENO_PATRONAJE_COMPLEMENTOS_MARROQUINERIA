@@ -162,12 +162,12 @@
 
     p.mb-5 Después del desbastado, las piezas deben prepararse antes de la costura. Para facilitar la confección del producto, es necesario doblarlas previamente. En los diseños pueden presentarse diversas formas, como curvas entrantes, curvas salientes y piezas rectas, entre otras.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-8.mb-4.col-sm-5
         img(src='@/assets/curso/temas/Tema6/img04.png', alt='')
       .col-lg-9
         AcordionA.mb-1(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.justify-content-center(titulo="Doblado de piezas con curva entrante")
+          .row.justify-content-start(titulo="Doblado de piezas con curva entrante")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p.espacioacordion Se deben realizar pequeñas incisiones o piquetes a intervalos de 5 mm a lo largo de la curva entrante. Luego, se aplica solución de caucho por el revés en un área de 16 mm para facilitar el doblez. Durante el proceso, es importante evitar la deformación de la curva. Vale la pena señalar que se utiliza un martillo para asegurar la adherencia del material.
           .row.justify-content-center(titulo="Doblado de piezas con curva saliente")

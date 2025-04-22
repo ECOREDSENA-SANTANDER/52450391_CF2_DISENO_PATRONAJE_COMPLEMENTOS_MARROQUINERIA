@@ -9,7 +9,7 @@
 
     p La moldería es el proceso de diseño y desarrollo de patrones para la fabricación de productos, asegurando precisión en trazos y medidas. En marroquinería, la exactitud de los moldes es crucial para la fidelidad al diseño, pudiendo realizarse de manera digital o manual; en este espacio trabajaremos la moldería manual.
 
-    .row.justify-content-center(data-aos="flip-up").fondot3.px-4
+    .row.justify-content-end(data-aos="flip-up").fondot3.px-4
       .col-lg-12.col-12.px-lg-5.px-3.mb-lg-5
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-11.col-lg-7.col-12
