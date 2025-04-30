@@ -29,20 +29,20 @@
     .row.justify-content-center(data-aos="flip-up")  
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/2.png', alt='tema1')
           .p-2.mb-4
             p.text-center.izqtext  #[em #[b Crupón:]] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
       
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/2.png', alt='tema1')
           .p-2.mb-4
             p.text-center.mb-0.p-1 #[b Cuello:] se emplea para extraer piezas internas del diseño.
    
       
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
-          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
+          img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/3.png', alt='tema1')
           .p-2.mb-4
             p.text-center.izqtext #[b Falda:] se destina al corte de piezas que requieren refuerzo con materiales como salpa, odena o polex.
          
@@ -55,7 +55,7 @@
           figure
             img(src='@/assets/curso/temas/Tema6/figura44.svg', alt='La figura representa la distribución de una hoja de cuero, destacando sus principales secciones. Se identifican el <i>cuello</i>, el crupón, la falda y la cola, cada una con diferentes características y usos en la marroquinería. Además, se indica la dirección en la que el material se estira, lo que es relevante para su manipulación y corte adecuado. ')
           .py-2
-          figcaption Fuente SENA.  
+          figcaption Fuente SENA
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.bg44.p-4
@@ -84,7 +84,7 @@
         figure
             img(src='@/assets/curso/temas/Tema6/figura45.svg', alt='La figura representa el comportamiento del estiramiento en un material en rollo, específicamente cuero. Se indican dos direcciones principales: estiramiento en el sentido horizontal y estabilidad en el sentido vertical. Esta distribución sugiere que el material tiene mayor elasticidad en un eje y mayor resistencia en el otro, lo cual es clave para su manipulación y corte adecuado. ')
             .py-2
-            figcaption Fuente SENA.
+            figcaption Fuente SENA
             .py-2 
       .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/temas/Tema6/img03.png', alt='')
@@ -117,7 +117,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema6/figura46.png', alt='La figura muestra una mesa de corte utilizada en procesos de manufactura. Su estructura metálica y superficie resistente proporcionan un espacio adecuado para realizar cortes con precisión. Debajo de la mesa, se encuentran herramientas y equipos complementarios, optimizando el área de trabajo para mayor eficiencia en el proceso de corte. ')
                   .py-2
-                  figcaption.text-negro Fuente SENA.  
+                  figcaption.text-negro Fuente SENA
               .col-lg-12
                 img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
           
@@ -135,7 +135,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema6/figura47.png', alt='La figura presenta piezas de material con el proceso de desbastado aplicado en sus bordes. Se aprecia la reducción del grosor en ciertas áreas, lo que facilita el ensamblaje y mejora el acabado final del producto. Esta técnica permite obtener un ajuste preciso en las costuras y optimizar la apariencia del material trabajado. ')
                   .py-2
-                  figcaption.mb-2.text-negro Fuente SENA.  
+                  figcaption.mb-2.text-negro Fuente SENA 
               .col-lg-12
                 img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
           .tarjeta.color-acento-botones.bg555.p-4(titulo="Entintado de bordes")
@@ -151,13 +151,13 @@
                 figure
                   img(src='@/assets/curso/temas/Tema6/figura48.png', alt='La imagen representa un proceso de entintado de bordes, donde una persona aplica color a la orilla de una pieza de material, posiblemente cuero o similar. Se utiliza una herramienta manual con un rodillo para distribuir la tinta de manera uniforme. La base de apoyo presenta rastros de pigmento, lo que indica su uso frecuente en este tipo de acabado. ')
                   .py-2
-                  figcaption.mb-3.text-negro Fuente SENA.  
+                  figcaption.mb-3.text-negro Fuente SENA
               .col-lg-12
                 img(src='@/assets/curso/temas/Tema6/lineaverde.svg', alt='')
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center.mt-4
-          img.w-card-icon(src="@/assets/curso/temas/Tema6/ico.svg")
+          img.w-card-icon(src="@/assets/curso/temas/Tema6/ico02.png")
           h3.bg2.py-2.w-card-text.text-white Doblado de piezas
 
     p.mb-5 Después del desbastado, las piezas deben prepararse antes de la costura. Para facilitar la confección del producto, es necesario doblarlas previamente. En los diseños pueden presentarse diversas formas, como curvas entrantes, curvas salientes y piezas rectas, entre otras.
@@ -180,7 +180,7 @@
               figure
                 img(src='@/assets/curso/temas/Tema6/figura49.png', alt='La figura muestra una mesa de corte utilizada en procesos de manufactura. Su estructura metálica y superficie resistente proporcionan un espacio adecuado para realizar cortes con precisión. Debajo de la mesa, se encuentran herramientas y equipos complementarios, optimizando el área de trabajo para mayor eficiencia en el proceso de corte. ')
                 .py-2
-                figcaption.text-negro Fuente SENA. 
+                figcaption.text-negro Fuente SENA
           .row.justify-content-center(titulo="Doblado de piezas rectas")
             .col-md-12.mb-4.mb-md-0.col-lg-6
               p.espacioacordion Sobre el perímetro de la pieza a un área de 16 mm se aplica solución de caucho y se procede a doblar la pieza y a afirmar con el martillo el pegado de esta. 
@@ -191,7 +191,7 @@
               figure
                 img(src='@/assets/curso/temas/Tema6/figura50.png', alt='La figura representa el proceso de doblado en una pieza recta. Se utilizan las manos para ajustar el material sobre una superficie de trabajo, asegurando precisión en el pliegue. La aplicación de adhesivo en los bordes facilita la fijación, contribuyendo a un mejor acabado en la confección.')
                 .py-2
-                figcaption.text-negro Fuente SENA. 
+                figcaption.text-negro Fuente SENA
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-8.bg44.p-2

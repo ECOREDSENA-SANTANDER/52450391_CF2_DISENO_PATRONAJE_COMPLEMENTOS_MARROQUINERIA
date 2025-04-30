@@ -95,7 +95,7 @@
                         figure
                           img(src='@/assets/curso/temas/Tema3/figura27.svg', alt='La figura representa el molde de una manija plana para bolso, con dimensiones específicas de 70 cm de largo por 7 cm de ancho. Se incluyen detalles como la cantidad requerida, el material a utilizar, el número de molde y la referencia, aunque estos campos no contienen información específica. El diseño es una pieza rectangular que servirá como asa en el ensamblaje del bolso. ')
                           .py-2
-                          figcaption.text-negro Fuente SENA.  
+                          figcaption.text-negro Fuente SENA
 
     .row.justify-content-center.align-items-center.fondomanija(data-aos="zoom-in-rigth")
       .col-lg-4.mb-0.col-sm-7.col-10
@@ -126,7 +126,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema3/figura28.svg', alt='La figura expone el molde de una manija con relleno, con dimensiones específicas de 50 cm de largo y diferentes secciones con anchos de 5 cm, 7.5 cm y 4.4 cm. Su diseño incluye cortes y variaciones en la forma, lo que sugiere un ajuste especial para incorporar el relleno y dar estructura a la manija. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")
       .col-lg-4.mb-2.col-sm-7.col-11
@@ -163,7 +163,7 @@
                       figure
                         img(src='@/assets/curso/temas/Tema3/figura29.svg', alt='La imagen representa un molde para una chapeta, una pieza rectangular con dimensiones especificadas. Su ancho es de 14 cm y su altura de 4 cm, con una línea punteada en el centro que puede indicar una referencia para doblado o costura. El diseño es simple y está estructurado para facilitar su corte y ensamblaje dentro de un proceso de confección. ')
                         .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA
               .col-lg-8
                 p.px-1 Sobre la línea de simetría maneje la medida del herraje restándole 3 mm. Para el caso de un herraje de 1 pulgada (2.54 cm). Desde el centro de la línea se marca el ancho a manejar y se dobla el molde. No olvide marcar los puntos. 
           
@@ -179,7 +179,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura30.svg', alt='La figura expone el ancho de una chapeta, representado como un rectángulo con una indicación de doblez en uno de sus lados. Este diseño sugiere que la pieza será plegada en esa sección para reforzar su estructura o facilitar su unión con otras partes del bolso. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.  
+                figcaption.text-negro Fuente SENA
           .row.justify-content-center.mb-5
             .col-lg-8
               p Vuelva a trazar desde los puntos marcados hasta los extremos y corte. 
@@ -196,7 +196,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura31.svg', alt='La figura ilustra un molde de chapeta diseñado para trazar, con una indicación de doblez en uno de sus lados. Incluye líneas guía que posiblemente marcan los puntos de corte o pliegue. Además, se muestra una herramienta de corte en la parte superior, sugiriendo el proceso de marcado o recorte de la pieza. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.  
+                figcaption.text-negro Fuente SENA
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-8
               p Abra el molde y márquelo.  
@@ -213,7 +213,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura32.svg', alt='La figura expone un molde de chapeta con información detallada sobre la cantidad, el material y el número de molde. Su diseño incluye una estructura plegada en el centro, lo que indica que la pieza podría requerir un doblez para su ensamblaje o ajuste en la confección del bolso. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.
+                figcaption.text-negro Fuente SENA
 
     .row.justify-content-center.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.col-12
@@ -244,7 +244,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura33.svg', alt='La figura detalla el molde para un porta documentos, compuesto por dos piezas con esquinas superiores redondeadas y líneas que indican las áreas de costura. Una de las piezas incluye marcas adicionales con cortes, lo que sugiere una división para compartimentos o bolsillos internos. El diseño está estructurado para facilitar su ensamblaje mediante costuras estratégicamente ubicadas. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.
+                figcaption.text-negro Fuente SENA
     
       .row.align-items-center.justify-content-center.mb-4
         .col-lg-7
@@ -263,7 +263,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura34.svg', alt='La figura presenta el molde doble para un porta documentos, compuesto por dos piezas rectangulares con indicaciones de costura en los bordes. Una de las piezas incluye una marca de doblez en uno de sus lados y una herramienta de corte, lo que sugiere un proceso de ajuste o preparación antes del ensamblaje. El diseño está estructurado para facilitar el armado mediante pliegues y costuras estratégicamente ubicadas.')
                   .py-2
-                  figcaption.text-negro Fuente SENA.
+                  figcaption.text-negro Fuente SENA
 
         .row.align-items-center.justify-content-center(data-aos="flip-up")
           .col-lg-8
@@ -282,7 +282,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura35.svg', alt='La figura presenta un molde con indicaciones de costura y un punto de referencia marcado en uno de sus lados. La estructura rectangular está dividida en secciones, lo que sugiere un diseño con pliegues o áreas diferenciadas para el ensamblaje. Los puntos de referencia pueden servir para la alineación precisa de las piezas durante el proceso de confección. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.
+                figcaption.text-negro Fuente SENA
 
         .row.align-items-center.justify-content-center.mb-0(data-aos="flip-up")
           .col-lg-8
@@ -301,7 +301,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura36.svg', alt='La figura representa el trazado del intervalo en un porta documentos, indicando las líneas de costura en la parte superior e inferior. En el interior, se señalan líneas paralelas con puntos de inicio y fin, que representar posiciones de marcas de referencia dentro del diseño. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.
+                figcaption.text-negro Fuente SENA
 
       .row.align-items-center.justify-content-center.mb-0
         .col-lg-8
@@ -321,7 +321,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema3/figura37.svg', alt='La figura representa un molde con líneas de trazado y marcas de costura en los bordes. Incluye líneas horizontales con flechas, que posiblemente indican guías para pliegues, costuras o ensamblaje. Además, se encuentra un rectángulo en una de las secciones, lo que sugiere un espacio designado para un bolsillo u otro elemento del diseño. ')
                   .py-2
-                figcaption.text-negro Fuente SENA.
+                figcaption.text-negro Fuente SENA
 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
@@ -335,21 +335,21 @@
               .row.justify-content-between.align-items-end.mb-3
                 .col.mb-3.mb-sm-0
                   .py-2
-                  h5.mb-1.cafe Cartilla del proyecto “Fortalecimiento y desarrollo de la actividad artesanal en la ciudad  de Bogotá primera fase”
-                .col-sm-auto.col-lg-2
+                  h5.mb-1.cafe Cartilla del proyecto “Fortalecimiento y desarrollo de la actividad artesanal en la ciudad  de Bogotá primera fase”.
+                .col-sm-auto.col-lg-3
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Artesanias_de_Colombia.pdf" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-globe
+                    span Ver documento
+                    i.fas.fa-link
               .row.justify-content-around.align-items-center
                 .col-12-lg-12
                   img(src="@/assets/curso/temas/Tema3/linea.svg")
               .row.justify-content-between.align-items-end.mb-3
                 .col.mb-3.mb-sm-0
-                  h5.mb-1.cafe Cartilla de marroquinería 
-                .col-sm-auto.col-lg-2
+                  h5.mb-1.cafe Cartilla de marroquinería.
+                .col-sm-auto.col-lg-3
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/cartilla_marroquineria_modelaje_bolsos.pdf" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-globe
+                    span Ver documento
+                    i.fas.fa-link
                  
               .row.justify-content-around.align-items-center
                 .col-12-lg-12
@@ -357,11 +357,11 @@
 
               .row.justify-content-between.align-items-end.mb-3
                 .col.mb-3.mb-sm-0
-                  h5.mb-1.cafe Cartilla elaboración de cinturones
-                .col-sm-auto.col-lg-2
+                  h5.mb-1.cafe Cartilla elaboración de cinturones.
+                .col-sm-auto.col-lg-3
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Elaboracion_de_cinturones.pdf" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-globe
+                    span Ver documento
+                    i.fas.fa-link
               
               .row.justify-content-around.align-items-center
                 .col-12-lg-12
@@ -369,11 +369,11 @@
                 
               .row.justify-content-between.align-items-end.mb-3
                 .col.mb-3.mb-sm-0
-                  h5.mb-1.cafe Cartilla maletín ejecutivo estructurado
-                .col-sm-auto.col-lg-2
+                  h5.mb-1.cafe Cartilla maletín ejecutivo estructurado.
+                .col-sm-auto.col-lg-3
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_Maletin_ejecutivo_estructurado.pdf" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-globe
+                    span Ver documento
+                    i.fas.fa-link
     
 
               .row.justify-content-around.align-items-center
@@ -383,10 +383,10 @@
               .row.justify-content-between.align-items-end.mb-4
                 .col.mb-3.mb-sm-0
                   h5.mb-4.cafe Cartilla Técnico - Pedagógica corporación de desarrollo productivo del cuero, calzado y marroquinería. 
-                .col-sm-auto.col-lg-2
+                .col-sm-auto.col-lg-3
                   a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Procesamiento/52450391_1/Contenido/DocArtic/Cartilla_tecnico_pedagogica_calzado_y_marroquineria.pdf" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-globe
+                    span Ver documento
+                    i.fas.fa-link
                   .py-3
 
     .row.justify-content-center.align-items-center.mb-5

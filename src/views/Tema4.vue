@@ -96,7 +96,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/Tema4/figura38.svg', alt='La figura expone un esquema de las partes de un cinturón, incluyendo la puntera en un extremo y la hebilla en el otro. Se identifican elementos como el pasador y la chapeta, los cuales contribuyen a la sujeción y ajuste. También se destacan varios orificios distribuidos a lo largo de la correa para permitir la regulación del tamaño. ')
       .col-lg-8
-        figcaption Fuente SENA.  
+        figcaption Fuente SENA 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-sm-6.col-10
@@ -106,9 +106,9 @@
               img(src='@/assets/curso/temas/Tema4/ico1.svg')
           .row.justify-content-center.align-items-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white Puntera: 
+              h5.mb-0.text-center.bg-color.text-white Puntera
             .col-lg-12.col-sm-11
-              p.text-center define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
+              p.text-center Define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
       
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -117,9 +117,9 @@
               img(src='@/assets/curso/temas/Tema4/ico2.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white Pasador: 
+              h5.mb-0.text-center.bg-color.text-white Pasador 
             .col-lg-12.col-sm-11
-              p.text-center pieza que permite sujetar la puntera después de atravesar la hebilla.
+              p.text-center Pieza que permite sujetar la puntera después de atravesar la hebilla.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -128,9 +128,9 @@
               img(src='@/assets/curso/temas/Tema4/ico3.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white Chapeta:  
+              h5.mb-0.text-center.bg-color.text-white Chapeta
             .col-lg-12.col-sm-11
-              p.text-center pieza que sostiene la hebilla para armar el cinturón.
+              p.text-center Pieza que sostiene la hebilla para armar el cinturón.
 
       .col-lg-3.col-sm-6.col-10
         .tarjeta.fondoslyder2.p-4
@@ -139,9 +139,9 @@
               img(src='@/assets/curso/temas/Tema4/ico4.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white Hebilla: 
+              h5.mb-0.text-center.bg-color.text-white Hebilla
             .col-lg-12.col-sm-11
-              p.text-center es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
+              p.text-center Es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
            
      
     .row.justify-content-center.align.mb-5(data-aos="fade-left")
@@ -161,7 +161,7 @@
         figure
           img(src='@/assets/curso/temas/Tema4/figura39.svg', alt='La figura expone un esquema de una hebilla con una medida específica de 3.5 cm en uno de sus lados. Su diseño incluye un marco rectangular con una barra central, lo que sugiere su uso para ajustar correas o cinturones. ')
         .py-1
-        figcaption Fuente SENA.       
+        figcaption Fuente SENA
 
     p.mb-4 Para sacar el largo de la tira de cuero se toma desde la tercera perforación y para ello es imprescindible tener en cuenta la talla del cinturón. 
 
@@ -172,7 +172,7 @@
           span  Largo de cintura
         figure
           img(src='@/assets/curso/temas/Tema4/figura40.svg', alt='La figura ilustra un esquema de un cinturón con indicaciones sobre su largo en relación con la talla. Se señalan los orificios para el ajuste y la ubicación de la hebilla, junto con una línea de referencia que indica el tramo correspondiente a la medida de la talla. El diseño facilita la identificación del tamaño adecuado según las perforaciones disponibles. ')
-        figcaption Fuente SENA.  
+        figcaption Fuente SENA
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-sm-10.col-12.mb-5
@@ -186,7 +186,7 @@
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura41.svg', alt='La figura representa la puntera de un cinturón, detallando sus dimensiones y la distribución de los orificios para el ajuste. Se indica un rango de longitud entre 13 y 15 cm desde el extremo redondeado hasta el primer orificio, con una separación de 2.5 cm entre cada perforación. El diseño facilita la regulación del tamaño del cinturón.')
         .py-2
-        figcaption Fuente SENA.  
+        figcaption Fuente SENA
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
@@ -198,7 +198,7 @@
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura42.svg', alt='La imagen representa una chapeta con forma alargada y extremos curvos o biselados. Su dimensión de ancho es de 14 cm, según la anotación en azul. La estructura de la pieza sugiere que es utilizada como refuerzo, adorno o elemento funcional en un proceso de confección. ')
         .py-2
-        figcaption Fuente SENA.  
+        figcaption Fuente SENA
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
@@ -210,7 +210,7 @@
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
         .py-2
-        figcaption Fuente SENA.  
+        figcaption Fuente SENA
     
     
     

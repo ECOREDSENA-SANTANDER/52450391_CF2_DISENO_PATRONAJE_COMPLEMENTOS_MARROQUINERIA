@@ -84,7 +84,7 @@
                   p #[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle
-                  p #[b Textil/Sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
+                  p #[b Textil/sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
       
       .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
@@ -100,7 +100,7 @@
                   |#[b Cuero:] 5 mm.
                 li.mb-0
                   i.fas.fa-check-circle
-                  |#[b Textil/Sintético:] 10 mm.    
+                  |#[b Textil/sintético:] 10 mm.    
     
       .col-lg-3.col-md-6.col-12.mb-lg-0
         .tarjeta.fondoslyder3.p-4
@@ -116,7 +116,7 @@
                   |#[b Cuero:] 8 mm.
                 li.mb-0
                   i.fas.fa-check-circle
-                  |#[b Textil/Sintético:] 10 mm.   
+                  |#[b Textil/sintético:] 10 mm.   
     
     .row.justify-content-center(data-aos="flip-up").fondot21.px-4
       .col-lg-12.col-12.px-lg-5.px-4
@@ -217,7 +217,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura9.svg', alt='La imagen expone un molde patrón para la confección de un bolso tipo pinza. La forma es rectangular y cuenta con medidas especificadas de 51 cm de ancho y 37 cm de alto. Las dimensiones están resaltadas en color azul, facilitando su interpretación para el proceso de corte y armado del bolso. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA
               .py-4
                 .row.justify-content-center.mb-2(data-aos="zoom-in-left")
                   .col-lg-8
@@ -235,7 +235,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura10.svg', alt='La imagen representa un molde patrón para la confección de un bolso tipo pinza. Tiene una forma rectangular con dimensiones de 51 cm de ancho y 37 cm de alto. Incluye una línea de simetría central para marcar el doblez y medidas adicionales que indican la distribución del diseño, como separaciones de 20 cm en cada lado y una pinza de 8 mm en la parte superior derecha. Los detalles están resaltados en color azul para facilitar la comprensión del patrón. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA 
               .py-4
               .col-lg-8
                 .col-sm-12.col-lg-12.col-12
@@ -252,7 +252,7 @@
                       figure
                         img(src='@/assets/curso/temas/Tema2/figura11.svg', alt='La imagen detalla dos esquemas del proceso de doblez en la confección de un bolso tipo pinza. Ambos diagramas muestran un rectángulo con medidas específicas, destacando líneas de pliegue y dimensiones clave. El primer esquema indica un doblez con una separación de 20 cm desde el borde, mientras que el segundo añade un detalle de 4 cm en la parte superior, junto con una pequeña pinza de ajuste. Las medidas resaltadas en color azul facilitan la interpretación del diseño. ')
                         .py-2
-                        figcaption.text-negro Fuente SENA.  
+                        figcaption.text-negro Fuente SENA  
                 .py-4
                   .row.justify-content-center.mb-0(data-aos="zoom-in-left")
                     .col-sm-12.col-lg-8.col-12
@@ -269,7 +269,7 @@
                       figure
                         img(src='@/assets/curso/temas/Tema2/figura12.svg', alt='La imagen representa el trazado de la pinza en el proceso de confección de un bolso. Contiene dos esquemas que detallan la distribución de medidas y pliegues, incluyendo referencias para el doblez y la formación de la pinza. Se indican dimensiones como 20 cm de separación desde el borde, una pinza de 8 mm en la parte superior y un margen de 4 cm en la parte inferior. Los elementos están resaltados con líneas y medidas en color azul para facilitar la interpretación del patrón. ')
                         .py-2
-                        figcaption.text-negro Fuente SENA.  
+                        figcaption.text-negro Fuente SENA 
                 
                 .py-3
                 .row.justify-content-center.mb-0(data-aos="zoom-in-left")
@@ -287,7 +287,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura13.svg', alt='La imagen expone el proceso de corte del molde para la confección de un bolso, tras la adición de la ventaja de costura. Incluye dos esquemas: el primero muestra el molde doblado con detalles del corte y una ampliación circular de una sección específica, mientras que el segundo presenta el molde completamente extendido. Se destacan las zonas de ventaja de costura en los bordes con etiquetas en azul, y una flecha indica la transición entre las dos etapas del proceso. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA  
               .py-4
                   .row.justify-content-center.mb-0
                     .col-sm-12.col-lg-8.col-12
@@ -304,7 +304,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura14.svg', alt='La imagen ilustra la marcación del molde para la confección de un bolso. En el centro del diseño se incluyen indicaciones como la identificación del cuerpo del bolso (frente y espaldar), la cantidad de piezas necesarias, el material a utilizar, el número del molde y una referencia. Alrededor del rectángulo, se especifican los márgenes de costura en los cuatro lados, resaltados en azul para facilitar su identificación. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA  
 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
@@ -357,7 +357,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura15.svg', alt='La imagen expone el diseño del falso interno para la confección de un bolso. Se indica una línea horizontal en la parte superior con la etiqueta "Línea para porta cierre o falso interno", ubicada a 4 cm del borde. La estructura mantiene la forma rectangular del molde base con extensiones laterales y en la parte inferior, resaltando los espacios necesarios para ensamblar esta sección con el resto del bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
               .col-lg-8
@@ -375,7 +375,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura16.svg', alt='La imagen expone el trazado de la línea para el porta cierre en la confección de un bolso. Se incluye una línea horizontal en la parte superior etiquetada como "Línea para porta cierre o falso interno", ubicada a 4 cm del borde. Además, en el extremo derecho se señala un pequeño corte o marca de referencia. La estructura mantiene la forma rectangular con extensiones en los laterales e inferior, lo que facilita su integración en el diseño del bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
               .col-lg-8
@@ -393,7 +393,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura17.svg', alt='La imagen representa el proceso de doblez del porta cierre en la confección de un bolso. Se destaca un rectángulo con líneas paralelas que indican las secciones de pliegue. En el lado izquierdo, la palabra "Doblez" está resaltada en azul, señalando el punto exacto donde se debe realizar el doblez. La estructura mantiene una forma alargada, facilitando su integración en el diseño del bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
               .col-lg-8
@@ -411,7 +411,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura18.svg', alt='La imagen representa el molde del porta cierre en su posición abierta. Su forma es rectangular y alargada, con líneas paralelas que delimitan las secciones para el ensamblaje. La estructura muestra los márgenes y pliegues necesarios para su correcta integración en el bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
               
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
@@ -431,7 +431,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura19.svg', alt='La figura representa un molde etiquetado con información relevante para la confección. Contiene una tabla con datos como el nombre de la pieza (porta cierre), la cantidad, el material, el número de molde y la referencia. En los bordes del molde, la palabra "Costura", está resaltada en color azul, indicando  las áreas donde se debe unir o coser la pieza. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
     
   
     .row.justify-content-center.align-items-center.fondot22.my-5
@@ -463,7 +463,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura20.svg', alt='La imagen representa el molde del forro para la confección de un bolso. Se indica una línea horizontal en la parte superior con la etiqueta "Línea para porta cierre o falso interno y para sacar forro", lo que marca la referencia para el corte y ensamblaje. La estructura mantiene un diseño rectangular con extensiones en los laterales e inferior, facilitando su integración en la construcción del bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
               .col-lg-8
@@ -480,7 +480,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura21.svg', alt='La imagen ilustra el corte del forro con doblez para la confección de un bolso. Se destacan referencias clave como la "Ventaja de costura" en la parte superior y el "doblez" en el lateral izquierdo, indicados en azul. En la esquina superior derecha, se señala un pequeño corte o marca de referencia. La estructura mantiene una forma rectangular con extensiones en la parte inferior, facilitando su ensamblaje en el diseño final del bolso. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA 
   
 
           .row.justify-content-center(data-aos="flip-up").px-4
@@ -499,7 +499,7 @@
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura22.svg', alt='La imagen representa el corte del forro con doblez para la confección de un bolso. Se destacan referencias clave como la "Ventaja de costura" en la parte superior y el "Doblez" en el lateral izquierdo, indicados en azul. En la esquina superior derecha, se señala un pequeño corte o marca de referencia. La estructura mantiene una forma rectangular con extensiones en la parte inferior, facilitando su ensamblaje en el diseño final del bolso. ')
                       .py-2
-                      figcaption.text-negro Fuente SENA.  
+                      figcaption.text-negro Fuente SENA  
          
             .row.justify-content-center.mb-2(data-aos="zoom-in-left")
               .col-sm-12.col-lg-8.col-12
@@ -516,7 +516,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura23.svg', alt='La imagen presenta varios moldes utilizados en confección, cada uno con información específica sobre la pieza correspondiente. En el molde central, se indican datos como el nombre de la pieza (Cuerpo), la cantidad, el material, el número de molde y la referencia. Alrededor de los bordes de cada molde, la palabra "costura" aparece resaltada en color azul, señalando las zonas destinadas a la unión de las piezas. La disposición de los moldes sugiere diferentes partes de una prenda o accesorio, organizadas con marcaciones precisas para su ensamblaje. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
               .col-sm-12.col-lg-8.col-12
@@ -533,7 +533,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura24.svg', alt='La figura representa la marcación de moldes en un diseño de costura. En el centro, se incluyen etiquetas con información sobre el forro, la cantidad, el material, el número de molde y la referencia. Alrededor del contorno, la palabra "Costura" se encuentra posicionada en diferentes bordes, indicando las áreas destinadas para la confección. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA 
 
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
@@ -551,7 +551,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura25.svg', alt='La imagen representa el molde del cuerpo de un bolso tipo pinza. Contiene un área central donde se especifican datos como el nombre de la pieza (Cuerpo), la cantidad, el material, el número de molde y la referencia. Alrededor del contorno del molde, la palabra "costura" aparece resaltada en color azul, indicando las zonas donde se realizarán las uniones mediante costura. La estructura del molde sugiere que la pieza está diseñada para ser doblada o ensamblada con otras partes para formar la forma final del bolso. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
           
             .py-3
             .row.justify-content-center.mb-0(data-aos="zoom-in-left")
@@ -587,7 +587,7 @@
                   figure
                     img(src='@/assets/curso/temas/Tema2/figura26.svg', alt='La figura expone un esquema técnico de los moldes para la confección de un bolso, incluyendo las piezas del cuerpo (frente y espaldar), el forro y otras secciones como pestañas. Cada molde especifica la cantidad requerida, el material utilizado, el número de molde y la referencia correspondiente. Además, se indican las líneas de costura en los bordes para facilitar el ensamblaje. ')
                     .py-2
-                    figcaption.text-negro Fuente SENA.  
+                    figcaption.text-negro Fuente SENA  
 
     .row.justify-content-around.align-items-center
       .col-12-lg-12
