@@ -271,10 +271,10 @@
                         .py-2
                         figcaption.text-negro Fuente SENA.  
                 
-                .py-4
-                  .row.justify-content-center.mb-0(data-aos="zoom-in-left")
-                    .col-sm-12.col-lg-8.col-12
-                      p Ya habiendo agregado la ventaja de costura, se procede a cortar y a abrir el molde. 
+                .py-3
+                .row.justify-content-center.mb-0(data-aos="zoom-in-left")
+                  .col-sm-12.col-lg-8.col-12
+                    p Ya habiendo agregado la ventaja de costura, se procede a cortar y a abrir el molde. 
 
             .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
               .col-lg-8.col-9
