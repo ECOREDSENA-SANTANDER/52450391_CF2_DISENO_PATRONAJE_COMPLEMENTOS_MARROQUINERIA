@@ -263,7 +263,9 @@
                 figure
                   img(src='@/assets/curso/temas/Tema1/figura7.png', alt='La imagen presenta una máquina repujadora, utilizada para grabar o estampar diseños en materiales como cuero, cartón y metal. Su estructura incluye un panel de control con botones y perillas de ajuste, una superficie de prensado y un sistema de presión que permite aplicar fuerza de manera uniforme. Su diseño facilita la personalización y el acabado de productos en industrias como la marroquinería y la encuadernación.')
       
-
+          .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
+            .col-lg-12
+              img(src='@/assets/curso/temas/Tema1/linea.svg', alt='')
 
 
 

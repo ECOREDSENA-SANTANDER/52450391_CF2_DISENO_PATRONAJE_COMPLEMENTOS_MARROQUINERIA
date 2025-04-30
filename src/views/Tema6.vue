@@ -31,7 +31,7 @@
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
           img.img-a.img-t.mb-3.icono-cambia1(src='@/assets/curso/temas/Tema6/ico2.svg', alt='tema1')
           .p-2.mb-4
-            p.text-center.izqtext  #[b Crupón:] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
+            p.text-center.izqtext  #[em #[b Crupón:]] es la zona más firme y uniforme, considerada la mejor para cortar el cuerpo del bolso y las manijas.
       
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.cambiartarjeta.p-4(data-aos="fade-left")
@@ -53,7 +53,7 @@
             h5 Figura 44. 
             span  Hoja de cuero 
           figure
-            img(src='@/assets/curso/temas/Tema6/figura44.svg', alt='La figura representa la distribución de una hoja de cuero, destacando sus principales secciones. Se identifican el cuello, el crupón, la falda y la cola, cada una con diferentes características y usos en la marroquinería. Además, se indica la dirección en la que el material se estira, lo que es relevante para su manipulación y corte adecuado. ')
+            img(src='@/assets/curso/temas/Tema6/figura44.svg', alt='La figura representa la distribución de una hoja de cuero, destacando sus principales secciones. Se identifican el <i>cuello</i>, el crupón, la falda y la cola, cada una con diferentes características y usos en la marroquinería. Además, se indica la dirección en la que el material se estira, lo que es relevante para su manipulación y corte adecuado. ')
           .py-2
           figcaption Fuente SENA.  
     
