@@ -207,13 +207,13 @@
 
 
             .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-11.col-md-11
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 9. 
                   | Molde patrón bolso tipo pinza 
-              .col-lg-8.col-9.tblanco.p-4
+              .col-lg-8.col-11.tblanco.p-4
                 .row.justify-content-center
-                  .col-lg-9
+                  .col-lg-9.col-md-10
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura9.svg', alt='La imagen expone un molde patrón para la confección de un bolso tipo pinza. La forma es rectangular y cuenta con medidas especificadas de 51 cm de ancho y 37 cm de alto. Las dimensiones están resaltadas en color azul, facilitando su interpretación para el proceso de corte y armado del bolso. ')
                       .py-2
@@ -225,11 +225,11 @@
 
 
             .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-11
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 10.
                   |  Molde para agregar ventaja de costura
-              .col-lg-8.col-9.tblanco.p-4 
+              .col-lg-8.col-11.tblanco.p-4 
                 .row.justify-content-center
                   .col-lg-9 
                     figure
@@ -242,11 +242,11 @@
                   p Doble la cartulina y repase los trazos que ya marcó para posteriormente agregar los 4 cm que conforman el ancho del bolso tanto al lado como en la parte inferior. 
               
               .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
-                .col-lg-8.col-9
+                .col-lg-8.col-11
                   .titulo-sexto.color-acento-contenido.text-negro
                     h5.text-negro Figura 11.
                     |   Doblez  
-                .col-lg-8.col-9.tblanco.p-4 
+                .col-lg-8.col-11.tblanco.p-4 
                   .row.justify-content-center
                     .col-lg-9 
                       figure
@@ -259,11 +259,11 @@
                       p Trace la pinza donde se interceptan las líneas que conforman el alto y el largo del bolso, y posteriormente, agregar ventaja de costura tanto al lado como a la pinza y a la parte inferior del molde.  
               
               .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
-                .col-lg-8.col-9
+                .col-lg-8.col-11
                   .titulo-sexto.color-acento-contenido.text-negro
                     h5.text-negro Figura 12. 
                     | Trazado de pinza 
-                .col-lg-8.col-9.tblanco.p-4 
+                .col-lg-8.col-11.tblanco.p-4 
                   .row.justify-content-center
                     .col-lg-9 
                       figure
@@ -277,11 +277,11 @@
                     p Ya habiendo agregado la ventaja de costura, se procede a cortar y a abrir el molde. 
 
             .row.justify-content-center.align-items-center.p-2.mb-0(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-11
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 13. 
                   | Corte de molde 
-              .col-lg-8.col-9.tblanco.p-4 
+              .col-lg-8.col-11.tblanco.p-4 
                 .row.justify-content-center
                   .col-lg-12
                     figure
@@ -294,11 +294,11 @@
                       p Posteriormente se realiza la marcación. 
             
             .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-11
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 14.
                   |  Marcación 
-              .col-lg-8.col-9.tblanco.p-4 
+              .col-lg-8.col-11.tblanco.p-4 
                 .row.justify-content-center
                   .col-lg-9   
                     figure
@@ -347,11 +347,11 @@
                   .py-4
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 15. 
                 | Falso interno  
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9   
                   figure
@@ -365,11 +365,11 @@
 
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 16. 
                 |  Línea para porta cierre
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9   
                   figure
@@ -383,11 +383,11 @@
 
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 17.
                 |   Doblez porta cierre 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9 
                   figure
@@ -401,11 +401,11 @@
 
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 18. 
                 |  Molde porta cierre abierto 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9  
                   figure
@@ -420,12 +420,12 @@
 
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 19.
                 |   Marcar moldes  
               
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-12  
                   figure
@@ -453,11 +453,11 @@
                   .py-3
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 20. 
                 | Molde forro 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9 
                   figure
@@ -470,11 +470,11 @@
                   p Se realiza el corte del forro trabajándolo a doblez.
 
             .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-11
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 21. 
                   | Corte forro con doblez 
-              .col-lg-8.col-9.tblanco.p-4 
+              .col-lg-8.col-11.tblanco.p-4 
                 .row.justify-content-center
                   .col-lg-6 
                     figure
@@ -489,14 +489,13 @@
                 .col-sm-12.col-lg-8.col-12
                   p Posteriormente abra el molde del forro. 
             .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-              .col-lg-8.col-9
+              .col-lg-8.col-12
                 .titulo-sexto.color-acento-contenido.text-negro
                   h5.text-negro Figura 22. 
                   |  Posterior forro 
-              .col-lg-8.col-9.tblanco.p-4 
+              .col-lg-8.col-12.tblanco.p-4 
                 .row.justify-content-center
-                  .col-lg-9 
-                
+                  .col-lg-9.col-11
                     figure
                       img(src='@/assets/curso/temas/Tema2/figura22.svg', alt='La imagen representa el corte del forro con doblez para la confección de un bolso. Se destacan referencias clave como la "Ventaja de costura" en la parte superior y el "Doblez" en el lateral izquierdo, indicados en azul. En la esquina superior derecha, se señala un pequeño corte o marca de referencia. La estructura mantiene una forma rectangular con extensiones en la parte inferior, facilitando su ensamblaje en el diseño final del bolso. ')
                       .py-2
@@ -507,11 +506,11 @@
                 p A continuación, se marcan los moldes. 
           
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 23. 
                 | Marcación de moldes 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9 
                   figure
@@ -524,11 +523,11 @@
                 p Si el bolso necesita un refuerzo en su base, éste se saca según el largo del cuerpo por el ancho y restándole 3 mm por cada lado. 
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 24. 
                 | Refuerzo 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-12 
                   figure
@@ -542,11 +541,11 @@
                 p Este mismo bolso puede venir unido el frente y el espaldar, para ello en la parte inferior del molde patrón no se agrega ventaja de costura, sino que se dobla el molde horizontalmente para poder cortar simétrico el nuevo patrón, como se muestra en la figura.
             
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-8.col-9
+            .col-lg-8.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 25.
                 | Cuerpo bolso tipo pinza 
-            .col-lg-8.col-9.tblanco.p-4 
+            .col-lg-8.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-9 
                   figure
@@ -577,12 +576,12 @@
    
 
           .row.justify-content-center.align-items-center.p-2.mb-3(data-aos="flip-up")
-            .col-lg-7.col-9
+            .col-lg-7.col-11
               .titulo-sexto.color-acento-contenido.text-negro
                 h5.text-negro Figura 26. 
                 | Industrialización de los moldes 
             
-            .col-lg-9.col-9.tblanco.p-4 
+            .col-lg-9.col-11.tblanco.p-4 
               .row.justify-content-center
                 .col-lg-12 
                   figure
