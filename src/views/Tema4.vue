@@ -19,9 +19,11 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1. 
           span  Tallaje femenino
+        
         .tabla-b.color-acento-contenido.mb-5(alt='La tabla presenta un sistema de tallaje femenino, relacionando las tallas con medidas en centímetros. Se incluyen las tallas 4, 6, 8, 10 y 12, con valores de 90 cm a 108 cm en incrementos de 4 cm. El formato estructurado facilita la identificación rápida de las medidas correspondientes a cada talla. ')
           .tabla-b__header
             h4.mb-0 TALLAJE FEMENIMO
+          
           tbody
             tr
               th.text-regular 4
@@ -38,7 +40,7 @@
             tr
               th.text-regular 12
               th.text-regular 108 cm 
-
+          figcaption Fuente SENA
 
       .col-lg-4.col-sm-7.mb-2.d-none.d-lg-block
         img(src='@/assets/curso/temas/Tema4/img02.png', alt='')
@@ -70,8 +72,7 @@
             tr
               th.text-regular 28
               th.text-regular 95 cm 
-      .col-lg-10
-        figcaption Fuente SENA
+          figcaption Fuente SENA
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-7.tarjeta.color.p-2
@@ -87,12 +88,14 @@
     p.mb-5 El cinturón se compone de 4 partes principales, las cuales son: 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-10
+      .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 38. 
           span  Partes del cinturón 
+      .col-lg-9
         figure
-          img(src='@/assets/curso/temas/Tema4/figura38.svg', alt='La figura expone un esquema de las partes de un cinturón, incluyendo la puntera en un extremo y la hebilla en el otro. Se identifican elementos como el pasador y la chapeta, los cuales contribuyen a la sujeción y ajuste. También se destacan varios orificios distribuidos a lo largo de la correa para permitir la regulación del tamaño. ')
+          img.mb-3(src='@/assets/curso/temas/Tema4/figura38.svg', alt='La figura expone un esquema de las partes de un cinturón, incluyendo la puntera en un extremo y la hebilla en el otro. Se identifican elementos como el pasador y la chapeta, los cuales contribuyen a la sujeción y ajuste. También se destacan varios orificios distribuidos a lo largo de la correa para permitir la regulación del tamaño. ')
+      .col-lg-8
         figcaption Fuente SENA.  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -103,7 +106,7 @@
               img(src='@/assets/curso/temas/Tema4/ico1.svg')
           .row.justify-content-center.align-items-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white a) Puntera: 
+              h5.mb-0.text-center.bg-color.text-white Puntera: 
             .col-lg-12.col-sm-11
               p.text-center define la punta que va a tener el cinturón (redonda, cuadrada, en punta, etc.).
       
@@ -114,7 +117,7 @@
               img(src='@/assets/curso/temas/Tema4/ico2.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white b) Pasador: 
+              h5.mb-0.text-center.bg-color.text-white Pasador: 
             .col-lg-12.col-sm-11
               p.text-center pieza que permite sujetar la puntera después de atravesar la hebilla.
 
@@ -125,7 +128,7 @@
               img(src='@/assets/curso/temas/Tema4/ico3.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white c) Chapeta:  
+              h5.mb-0.text-center.bg-color.text-white Chapeta:  
             .col-lg-12.col-sm-11
               p.text-center pieza que sostiene la hebilla para armar el cinturón.
 
@@ -136,7 +139,7 @@
               img(src='@/assets/curso/temas/Tema4/ico4.svg')
           .row.justify-content-center.mb-3.px-3
             .col-lg-6.col-sm-6.bg1table.mb-2.col-6
-              h5.mb-0.text-center.bg-color.text-white d) Hebilla: 
+              h5.mb-0.text-center.bg-color.text-white Hebilla: 
             .col-lg-12.col-sm-11
               p.text-center es el herraje y se encuentra en diferentes dimensiones, formas y acabados.
            
@@ -182,7 +185,8 @@
               span  Puntera  
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura41.svg', alt='La figura representa la puntera de un cinturón, detallando sus dimensiones y la distribución de los orificios para el ajuste. Se indica un rango de longitud entre 13 y 15 cm desde el extremo redondeado hasta el primer orificio, con una separación de 2.5 cm entre cada perforación. El diseño facilita la regulación del tamaño del cinturón.')
-      
+        .py-2
+        figcaption Fuente SENA.  
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
@@ -193,7 +197,8 @@
               span  Chapeta 
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura42.svg', alt='La imagen representa una chapeta con forma alargada y extremos curvos o biselados. Su dimensión de ancho es de 14 cm, según la anotación en azul. La estructura de la pieza sugiere que es utilizada como refuerzo, adorno o elemento funcional en un proceso de confección. ')
-      
+        .py-2
+        figcaption Fuente SENA.  
       .col-lg-4.col-sm-10.col-12.mb-5
         .tarjeta.fondotarjeta2.p-4
           .row.justify-content-center.align-items-center.mb-3.px-2
@@ -204,7 +209,8 @@
               span Largo del pasador
             figure
               img.col-sm-10(src='@/assets/curso/temas/Tema4/figura43.svg', alt='La figura expone el esquema de un pasador para cinturón, con una fórmula que indica su largo basado en el ancho del cinturón más un centímetro adicional. Su diseño rectangular sugiere que rodea la correa para mantenerla en su lugar una vez abrochada la hebilla. ')
-      figcaption Fuente SENA.  
+        .py-2
+        figcaption Fuente SENA.  
     
     
     
