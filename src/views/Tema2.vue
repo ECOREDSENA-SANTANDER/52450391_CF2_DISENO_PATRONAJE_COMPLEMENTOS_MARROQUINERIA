@@ -181,7 +181,7 @@
           | Bolso tipo pinza
         figure
           img.mb-2(src='@/assets/curso/temas/Tema2/figura8.svg', alt='La imagen presenta un bolso elegante de tamaño mediano con asas cortas y una correa larga ajustable para llevarlo al hombro. Su diseño incluye un patrón mono gramado en tonos marrón y detalles en cuero color camel. Además, cuenta con un adorno metálico colgante con el logo de la marca y herrajes dorados que complementan su estilo sofisticado. ')  
-        figcaption Imagen tomada de:
+        .griscuadrado.px-4 Imagen tomada de:
           span
           <a href="https://www.raffaello-network.com/espanol/moda-detalle/608061/1608/Michael-Kors-Bolsos-(- Carteras-).html" target="_blank">https://www.raffaello-network.com/espanol/moda-detalle/608061/1608/Michael-Kors-Bolsos-(- Carteras-).html</a>
       

@@ -128,7 +128,7 @@
                     .py-2
                     figcaption.text-negro Fuente SENA
 
-    .row.justify-content-center.align-items-center(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       .col-lg-4.mb-2.col-sm-7.col-11
         img(src='@/assets/curso/temas/Tema3/img04.png', alt='')
       .col-lg-4
