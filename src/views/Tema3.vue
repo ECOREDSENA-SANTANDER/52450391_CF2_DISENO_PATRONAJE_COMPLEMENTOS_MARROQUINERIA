@@ -65,7 +65,7 @@
                 .row.justify-content-center.align-items-center.mb-4
                   .col-lg-1.col-3.col-md-2
                     img.mb-2(src='@/assets/curso/temas/Tema3/cuero.png', alt='')
-                  .col-lg-10
+                  .col-lg-10.col-md-10
                     p Teniendo en cuenta la dimensión del herraje se multiplica por 2 y se suma 2 cm, para el caso de una manija de mano y con un herraje de 1 pulgada, se maneja la siguiente medida: 
 
                 .row.gris1.justify-content-center.align-items-center.p-2.mb-4
@@ -146,7 +146,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-1.col-3.col-md-2
                 img.mb-2(src='@/assets/curso/temas/Tema3/bolsocuero.png', alt='')
-              .col-lg-11.col-11
+              .col-lg-11.col-11.col-md-9
                 p Para el desarrollo de ésta es importante la dimensión del herraje, así como el diseño del artículo (chapeta redonda, cuadrada, en punta).
             .row.justify-content-center.align-items-center.mb-2
               .col-lg-12.col-11
@@ -240,7 +240,7 @@
                   .titulo-sexto.color-acento-contenido.text-negro.my-5
                     h5.text-negro Figura 33. 
                     | Molde porta documentos
-                .col-lg-8.col-12.tblanco.p-4.mb-4
+                .col-lg-8.col-12.tblanco.p-4.mb-3
                   .row.justify-content-center(data-aos="flip-up")
                     .col-lg-12.col-md-11
                       figure
@@ -248,7 +248,7 @@
                         .py-2
                       figcaption.text-negro Fuente SENA
       
-          .row.align-items-center.justify-content-center.mb-3
+          .row.align-items-center.justify-content-center
             .col-lg-7.col-md-12
               p Posteriormente, se debe doblar el molde y cortar la ventaja de costura de los extremos. 
       

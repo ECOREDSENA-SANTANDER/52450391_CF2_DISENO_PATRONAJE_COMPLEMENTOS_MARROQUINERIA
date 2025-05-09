@@ -53,7 +53,7 @@
             h5 Figura 44. 
             span  Hoja de cuero 
           figure
-            img(src='@/assets/curso/temas/Tema6/figura44.svg', alt='La figura representa la distribución de una hoja de cuero, destacando sus principales secciones. Se identifican el <i>cuello</i>, el crupón, la falda y la cola, cada una con diferentes características y usos en la marroquinería. Además, se indica la dirección en la que el material se estira, lo que es relevante para su manipulación y corte adecuado. ')
+            img(src='@/assets/curso/temas/Tema6/figura44.svg', alt='La figura representa la distribución de una hoja de cuero, destacando sus principales secciones. Se identifican el cuello, el crupón, la falda y la cola, cada una con diferentes características y usos en la marroquinería. Además, se indica la dirección en la que el material se estira, lo que es relevante para su manipulación y corte adecuado. ')
           .py-2
           figcaption Fuente SENA
     
