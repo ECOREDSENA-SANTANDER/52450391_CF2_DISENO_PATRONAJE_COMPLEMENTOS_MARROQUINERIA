@@ -81,7 +81,7 @@
               ul.lista-ul.p
                 li.mb-0.d-flex
                   i.fas.fa-check-circle
-                  p #[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
+                  p.mb-0 #[b Cuero:] 8 mm sobre sí mismo, 10 mm sobre material rígido.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle
                   p #[b Textil/sintético:] 10 mm sobre sí mismo, 12 mm sobre material rígido.
