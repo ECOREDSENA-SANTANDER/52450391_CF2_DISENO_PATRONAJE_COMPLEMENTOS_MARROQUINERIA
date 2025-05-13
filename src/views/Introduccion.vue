@@ -24,7 +24,7 @@
             figure
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/2bDjgp4Qvks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-              figcaption Video: introducción - marroquinería, el arte de crear en cuero
+              figcaption Video: marroquinería, el arte de crear en cuero
           .py-3
 </template>
 
