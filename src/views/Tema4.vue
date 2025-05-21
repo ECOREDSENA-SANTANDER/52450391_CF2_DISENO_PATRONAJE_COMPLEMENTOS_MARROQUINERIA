@@ -22,7 +22,7 @@
         
         .tabla-b.color-acento-contenido.mb-5(alt='La tabla presenta un sistema de tallaje femenino, relacionando las tallas con medidas en centímetros. Se incluyen las tallas 4, 6, 8, 10 y 12, con valores de 90 cm a 108 cm en incrementos de 4 cm. El formato estructurado facilita la identificación rápida de las medidas correspondientes a cada talla. ')
           .tabla-b__header
-            h4.mb-0 TALLAJE FEMENIMO
+            h4.mb-0 Tallaje femenino
           
           tbody
             tr
@@ -50,7 +50,7 @@
           span  Tallaje masculino
         .tabla-b.color-acento-contenido.mb-2(alt='La tabla presenta un sistema de tallaje masculino, relacionando las tallas con medidas en centímetros. Incluye las tallas 28, 30, 32, 34, 36 y 38, con valores que van desde 95 cm hasta 120 cm en incrementos de 5 cm. Su estructura permite identificar fácilmente la medida correspondiente a cada talla. ')
           .tabla-b__header
-            h4.mb-0 TALLAJE MASCULINO
+            h4.mb-0 Tallaje masculino
         
           tbody
             tr

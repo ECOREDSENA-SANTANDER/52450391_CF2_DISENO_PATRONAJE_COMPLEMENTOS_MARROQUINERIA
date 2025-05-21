@@ -239,7 +239,7 @@
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 5. 
-                  span  Maquina fileteadora
+                  span  Máquina fileteadora
                 figure
                   img(src='@/assets/curso/temas/Tema1/figura5.png', alt='La imagen presenta una máquina fileteadora, diseñada para realizar costuras overlock en telas, evitando que los bordes se deshilachen. Su estructura compacta incluye un sistema de múltiples hilos, un mecanismo de cuchillas para recorte de excedentes y un motor integrado que permite un funcionamiento preciso y rápido. Su uso es común en la confección textil para acabados profesionales en prendas y otros productos de costura. ')
             
@@ -259,7 +259,7 @@
               .col-md-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 7. 
-                  span  Maquina repujadora
+                  span  Máquina repujadora
                 figure
                   img(src='@/assets/curso/temas/Tema1/figura7.png', alt='La imagen presenta una máquina repujadora, utilizada para grabar o estampar diseños en materiales como cuero, cartón y metal. Su estructura incluye un panel de control con botones y perillas de ajuste, una superficie de prensado y un sistema de presión que permite aplicar fuerza de manera uniforme. Su diseño facilita la personalización y el acabado de productos en industrias como la marroquinería y la encuadernación.')
       

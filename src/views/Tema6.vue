@@ -103,10 +103,10 @@
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-acento-botones.text-white
-          .tarjeta.color-acento-botones.bg555.p-4(titulo="Proceso de Corte")
+          .tarjeta.color-acento-botones.bg555.p-4(titulo="Proceso de corte")
             .row.justify-content-center.align-items-center.mb-2
               .col-lg-7
-                h4.text-negro Proceso de Corte
+                h4.text-negro Proceso de corte
                 p.text-negro.mb-0 Una vez elaborados los moldes, el corte se puede realizar de forma mecánica, utilizando troqueladoras, cortadoras de rayo láser o de chorro de agua, o de manera manual con cuchilla, método que se abordará en este curso. Para obtener un corte preciso, es esencial contar con un banco de trabajo adecuado y una piedra de afilar para mantener el filo de la cuchilla en óptimas condiciones.
                 p.text-negro Para el corte de materia prima, especialmente cuero, es fundamental considerar su estiramiento. Para las piezas, se emplea cuchilla en cuero y sintéticos, mientras que en textiles se utilizan tijeras. En el caso del cuero, sintéticos o cartón, el molde se coloca sobre el material antes de realizar el corte, asegurando precisión en el proceso.
               
