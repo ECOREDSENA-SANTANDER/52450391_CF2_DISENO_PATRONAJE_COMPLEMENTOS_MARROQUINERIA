@@ -11,7 +11,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Diagrama de flujo sobre marroquinería con un título en la parte superior y cuatro flechas que conducen a diferentes áreas: herramientas y maquinaria, moldería para bolsos y cinturones, moldería común para bolsos, y corte y confección de artículos de cuero. Cada área incluye subtemas clave, como maquinaria, medidas para moldes, procesos de corte y acabado.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto
