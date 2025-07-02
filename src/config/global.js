@@ -130,7 +130,7 @@ export default {
         'Castaño Tirado, S.B., Rivera Delgado, E., Tamayo Caviedes, P., Rodríguez Armesto, C.A., Jaramillo, A.M., Zuleta, E.A., Zapata Gallego, N.T. (2019). Herramientas de corte manual para el sector del cuero. Centro de Diseño y Manufactura del Cuero. Servicio Nacional de Aprendizaje (SENA).',
       tipo: 'Cartillas',
       link:
-        'https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/52450391-DISE%C3%91O,%20PATRONAJE,%20COMPLEMENTOS%20(MARROQUINERIA)/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/Herramientas_de_corte_manual_para_el_sector_del_cuero.pdf?csf=1&web=1&e=3EaH4g',
+        '/downloads/Herramientas_de_corte_manual_para_el_sector_del_cuero.pdf',
     },
   ],
   glosario: [
