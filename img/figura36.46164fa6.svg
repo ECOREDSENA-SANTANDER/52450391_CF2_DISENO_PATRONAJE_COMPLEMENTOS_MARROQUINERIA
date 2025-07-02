@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="293" viewBox="0 0 610 293">
+  <g id="Grupo_1106586" data-name="Grupo 1106586" transform="translate(-599.912 -5885.58)">
+    <rect id="Rectángulo_402080" data-name="Rectángulo 402080" width="610" height="290" transform="translate(599.912 5887.58)" fill="#bbcbc5"/>
+    <line id="Línea_708" data-name="Línea 708" y2="255.601" transform="translate(905.187 5905.482)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_709" data-name="Línea 709" x2="610" transform="translate(599.912 5904.58)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <line id="Línea_711" data-name="Línea 711" x2="288" transform="translate(904.912 6032.58)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_712" data-name="Línea 712" x2="288" transform="translate(904.912 5987.58)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_713" data-name="Línea 713" x2="288" transform="translate(904.912 5939.58)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_710" data-name="Línea 710" x2="610" transform="translate(599.912 6160.58)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <text id="Costura" transform="translate(875.912 6173.58)" fill="#4b1c16" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <text id="Costura-2" data-name="Costura" transform="translate(875.912 5902.58)" fill="#4b1c16" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <ellipse id="Elipse_11535" data-name="Elipse 11535" cx="4.5" cy="5" rx="4.5" ry="5" transform="translate(1187.912 6027.58)" fill="#567e6f"/>
+    <ellipse id="Elipse_11537" data-name="Elipse 11537" cx="4.5" cy="4" rx="4.5" ry="4" transform="translate(1187.912 5984.58)" fill="#dce4e1"/>
+    <ellipse id="Elipse_11539" data-name="Elipse 11539" cx="4.5" cy="5" rx="4.5" ry="5" transform="translate(1187.912 5934.58)" fill="#dce4e1"/>
+    <ellipse id="Elipse_11536" data-name="Elipse 11536" cx="4.5" cy="5" rx="4.5" ry="5" transform="translate(900.912 6027.58)" fill="#dce4e1"/>
+    <ellipse id="Elipse_11538" data-name="Elipse 11538" cx="4.5" cy="4" rx="4.5" ry="4" transform="translate(900.912 5984.58)" fill="#dce4e1"/>
+    <ellipse id="Elipse_11540" data-name="Elipse 11540" cx="4.5" cy="5" rx="4.5" ry="5" transform="translate(900.912 5934.58)" fill="#dce4e1"/>
+  </g>
+</svg>

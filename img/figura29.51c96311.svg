@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610.393" height="212.216" viewBox="0 0 610.393 212.216">
+  <g id="Grupo_1106547" data-name="Grupo 1106547" transform="translate(-684.563 -3071.163)">
+    <rect id="Rectángulo_402041" data-name="Rectángulo 402041" width="558.554" height="160.37" transform="translate(685.375 3122.192)" fill="#ebe6e6"/>
+    <text id="_14_cm" data-name="14 cm" transform="translate(959.768 3093.921)" fill="#4b1c16" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.164" y="0">14 cm</tspan></text>
+    <text id="_4._cm" data-name="4. cm" transform="translate(1282.696 3205.806) rotate(-90)" fill="#4b1c16" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="-18.541" y="0">4. cm</tspan></text>
+    <line id="Línea_563" data-name="Línea 563" x2="558.866" transform="translate(684.956 3107.611)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_568" data-name="Línea 568" y1="160.37" transform="translate(1259.723 3123.009)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_691" data-name="Línea 691" y1="159.974" transform="translate(964.496 3123.405)" fill="none" stroke="#655647" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Línea_564" data-name="Línea 564" y2="51.027" transform="translate(685.063 3071.163)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_567" data-name="Línea 567" y2="51.027" transform="translate(1243.929 3282.563) rotate(-90)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_565" data-name="Línea 565" y2="51.027" transform="translate(1243.929 3071.163)" fill="none" stroke="#655647" stroke-width="1"/>
+    <line id="Línea_566" data-name="Línea 566" y2="51.027" transform="translate(1243.929 3122.19) rotate(-90)" fill="none" stroke="#655647" stroke-width="1"/>
+  </g>
+</svg>

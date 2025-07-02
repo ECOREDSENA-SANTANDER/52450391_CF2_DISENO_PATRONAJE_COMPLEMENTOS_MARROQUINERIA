@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="505.484" viewBox="0 0 820 505.484">
+  <g id="Grupo_1107017" data-name="Grupo 1107017" transform="translate(-495.912 -6466)">
+    <path id="Rectángulo_402076" data-name="Rectángulo 402076" d="M40,0H357a40,40,0,0,1,40,40V504a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V40A40,40,0,0,1,40,0Z" transform="translate(918.912 6467.484)" fill="#bbcbc5"/>
+    <g id="Rectángulo_402077" data-name="Rectángulo 402077" transform="translate(935.912 6484.484)" fill="#bbcbc5" stroke="#567e6f" stroke-width="1">
+      <path d="M40,0H322a40,40,0,0,1,40,40V470a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V40A40,40,0,0,1,40,0Z" stroke="none"/>
+      <path d="M40,.5H322A39.5,39.5,0,0,1,361.5,40V469.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V40A39.5,39.5,0,0,1,40,.5Z" fill="none"/>
+    </g>
+    <text id="Costura" transform="translate(1083.552 6479)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <text id="Costura-2" data-name="Costura" transform="translate(1083.552 6964.318)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <line id="Línea_698" data-name="Línea 698" x2="397" transform="translate(918.912 6645.484)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <line id="Línea_700" data-name="Línea 700" x2="397" transform="translate(918.912 6636.484)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <line id="Línea_701" data-name="Línea 701" x2="397" transform="translate(918.912 6798.484)" fill="none" stroke="#dce4e1" stroke-width="1"/>
+    <g id="Grupo_1106577" data-name="Grupo 1106577" transform="translate(495.912 6466)">
+      <path id="Rectángulo_402073" data-name="Rectángulo 402073" d="M40,0H357a40,40,0,0,1,40,40V504a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V40A40,40,0,0,1,40,0Z" transform="translate(0 1.484)" fill="#bbcbc5"/>
+      <g id="Rectángulo_402075" data-name="Rectángulo 402075" transform="translate(17 18.484)" fill="#bbcbc5" stroke="#567e6f" stroke-width="1">
+        <path d="M40,0H321a40,40,0,0,1,40,40V470a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V40A40,40,0,0,1,40,0Z" stroke="none"/>
+        <path d="M40,.5H321A39.5,39.5,0,0,1,360.5,40V469.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V40A39.5,39.5,0,0,1,40,.5Z" fill="none"/>
+      </g>
+      <text id="Costura-3" data-name="Costura" transform="translate(164.163 13)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+      <text id="Costura-4" data-name="Costura" transform="translate(164.163 498.318)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+      <line id="Línea_696" data-name="Línea 696" x2="397" transform="translate(0 179.484)" fill="none" stroke="#567e6f" stroke-width="1"/>
+      <line id="Línea_697" data-name="Línea 697" x2="397" transform="translate(0 341.484)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    </g>
+    <line id="Línea_699" data-name="Línea 699" x2="397" transform="translate(918.912 6807.484)" fill="none" stroke="#567e6f" stroke-width="1"/>
+    <g id="Grupo_1106578" data-name="Grupo 1106578" transform="translate(938.36 6636.063)">
+      <line id="Línea_575" data-name="Línea 575" y2="8.066" transform="translate(15.572 1.344)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <path id="Trazado_891126" data-name="Trazado 891126" d="M1083.056,3069l-20.838,5.261,20.838,4.822" transform="translate(-1057.065 -3069)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_576" data-name="Línea 576" x2="6.722" transform="translate(0 5.261)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Elipse_11532" data-name="Elipse 11532" cx="2.017" cy="2.017" r="2.017" transform="translate(2.017 3.203)" fill="#707070"/>
+    </g>
+    <g id="Grupo_1106579" data-name="Grupo 1106579" transform="translate(938.36 6797.388)">
+      <line id="Línea_575-2" data-name="Línea 575" y2="8.066" transform="translate(15.572 1.344)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <path id="Trazado_891126-2" data-name="Trazado 891126" d="M1083.056,3069l-20.838,5.261,20.838,4.822" transform="translate(-1057.065 -3069)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_576-2" data-name="Línea 576" x2="6.722" transform="translate(0 5.261)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Elipse_11532-2" data-name="Elipse 11532" cx="2.017" cy="2.017" r="2.017" transform="translate(2.017 3.203)" fill="#707070"/>
+    </g>
+    <text id="Costura-5" data-name="Costura" transform="translate(1083.552 6641.669)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+    <text id="Costura-6" data-name="Costura" transform="translate(1083.552 6802.993)" fill="#4b1c16" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costura</tspan></text>
+  </g>
+</svg>

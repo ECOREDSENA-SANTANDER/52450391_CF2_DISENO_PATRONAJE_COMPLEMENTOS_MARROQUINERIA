@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="closeup-bottle-water-hands-traveler" cx="63" cy="63" r="63" transform="translate(304 1619.892)" fill="#567e6f"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_402097" data-name="Rectángulo 402097" width="46.384" height="166.772" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1106631" data-name="Grupo 1106631" transform="translate(-297 -1612.892)">
+    <g id="Elipse_11497" data-name="Elipse 11497" transform="translate(297 1612.892)" fill="none" stroke="#c2b299" stroke-linecap="round" stroke-width="3" stroke-dasharray="9 14">
+      <circle cx="70" cy="70" r="70" stroke="none"/>
+      <circle cx="70" cy="70" r="68.5" fill="none"/>
+    </g>
+    <circle id="closeup-bottle-water-hands-traveler-2" data-name="closeup-bottle-water-hands-traveler" cx="63" cy="63" r="63" transform="translate(304 1619.892)" fill="#567e6f"/>
+    <g id="Enmascarar_grupo_1098682" data-name="Enmascarar grupo 1098682" clip-path="url(#clip-path)">
+      <g id="Grupo_1106632" data-name="Grupo 1106632" transform="translate(343.808 1630.809)">
+        <g id="Grupo_1106632-2" data-name="Grupo 1106632" clip-path="url(#clip-path-2)">
+          <path id="Trazado_891154" data-name="Trazado 891154" d="M0,166.772V49.2c0-.686.085-2.074.159-2.756C1.723,32.152,3.235,18.335,4.8,4.038,5.133.971,6.469,0,8.728,0H37.656c2.259,0,3.594.97,3.929,4.037,1.564,14.3,3.075,28.113,4.639,42.41.075.681.159,2.07.159,2.756V166.772Zm23.192-48.991A4.082,4.082,0,1,0,19.11,113.7a4.082,4.082,0,0,0,4.082,4.082" transform="translate(0 0)" fill="#753811" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
